@@ -31,6 +31,7 @@ dl dl (keydash)
 
 dl dr (keydash)
 ![dl dr rng path](pokey2_dl_dr.png)
+
     * walk <v until you're 1 tile away from the wall
     * walk v until a few pixels below the top of the pot, spin the first pokey
     * walk ^ ~1/2 tile, slash
@@ -41,6 +42,7 @@ dl dr (keydash)
 
 dl ul (slow walk)
 ![dl ul rng path](pokey2_dl_ul.png)
+
     * walk <v for about a tile
     * walk < until aligned with the pot, spin the pokey
     * slash <, walk down, spin the second pokey
@@ -48,6 +50,7 @@ dl ul (slow walk)
 
 dl ur (slow walk)
 ![dl ur rng path](pokey2_dl_ur.png)
+
     * walk v until ~1.5 tiles above top of shooter. spin pokey
     * walk <, slash, keep walking < until about 1 tile left of shooter
     * walk v, then <v into the pokey and spin
@@ -55,12 +58,14 @@ dl ur (slow walk)
 
 dr dl (slow walk)
 ![dr dl rng path](pokey2_dr_dl.png)
+
     * walk down to the shooter. bait the fireball[1] and then line up so link is sort of centered on the right side of the shooter. double spin both pokeys
     * walk > and v to line up with the door and dash out
     * you dont have to be *that* fast getting out b/c it's a slow walk cycle anyway
 
 dr dr (slow walk)
 ![dr dr rng path](pokey2_dr_dr.png)
+
     * walk v> until about 1/2 tile to the left of the pots (1.5 tiles from the right wall).
     * walk v a little more (slightly below the medusa) and spin the pokey.
       * it's very easy to accidentally poke spin instead of double spinning; you can release from kinda far away from the pokey
@@ -70,12 +75,14 @@ dr dr (slow walk)
 
 dr ul (slow walk)
 ![dr ul rng path](pokey2_dr_ul.png)
+
     * walk <v about 1/2 to 1 tile, then walk < to the pot. release spin
     * slash down, then walk > and v> til you're face mashing the shooter and link's middle is lined up with the right side of the shooter. release spin
     * dash out. or just walk, the roller room is on a terrible cycle so the dash here doesn't seem to save time
 
 dr ur (fast walk/bonk)
 ![dr ur rng path](pokey2_dr_ur.png)
+
     * walk v and spin the first pokey
     * slash v and then walk v>
       * slash ^ is also fine and makes it easier not to poke, but feels kinda wonky
@@ -83,6 +90,7 @@ dr ur (fast walk/bonk)
 
 ul dl (slow walk)
 ![ul dl rng path](pokey2_ul_dl.png)
+
     * walk v and spin
     * slash <
     * walk < until about 1 tile left of the shooter
@@ -92,6 +100,7 @@ ul dl (slow walk)
 
 ul dr (fast walk)
 ![ul dr rng path](pokey2_ul_dr.png)
+
     * walk v and spin
     * slash >
     * walk v> until lined up with the door
@@ -99,6 +108,7 @@ ul dr (fast walk)
 
 ul ul (fast walk)
 ![ul ul rng path](pokey2_ul_ul.png)
+
     * walk < until about 1 tile away from the right side of the pot
       * you wanna stay pretty high up
     * double spin them
@@ -107,12 +117,14 @@ ul ul (fast walk)
 
 ul ur (keydash)
 ![ul ur rng path](pokey2_ul_ur.png)
+
     * walk v
     * double spin
     * walk v> to the side of the shooter and dash out
 
 ur dl (slow walk)
 ![ur dl rng path](pokey2_ur_dl.png)
+
     * walk > til ~1 tile from left of pot
     * walk v> and release spin
     * slash <, walk < until lined up with the left of the shooter
@@ -121,6 +133,7 @@ ur dl (slow walk)
 
 ur dr (fast walk)
 ![ur dr rng path](pokey2_ur_dr.png)
+
     * walk > til ~1 tile from left of pot
     * walk v> and release spin
     * slash >
@@ -130,6 +143,7 @@ ur dr (fast walk)
 
 ur ul (slow walk)
 ![ur ul rng path](pokey2_ur_ul.png)
+
     * walk < til ~1 tile from right of pot
     * walk <v and release spin
     * slash v
@@ -139,6 +153,7 @@ ur ul (slow walk)
 
 ur ur (bonk)
 ![ur ur rng path](pokey2_ur_ur.png)
+
     * walk > until a little less than 1 tile from left of pot
     * double spin when they get to you
     * walk v and dash out

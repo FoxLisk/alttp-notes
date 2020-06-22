@@ -1,0 +1,10 @@
+* ancilla fake flippers (3x lamp, 6x arrow 2x bomb dive)
+* wait for bombs to explode; don't get hit lol
+* go up the stairs (you stay in swim state)
+* go down the stairs and hit y/b/a for swim speed right before you hit the staircase
+* let go of all directions sometime after you pass the staircase
+* tap ^ to get deep in the wall
+* hold <v, release v for one frame, then hold <v again; link will stay deep in the wall until he passes the rail and then clip through the rail
+* now you can just swim < and ^ and out the door
+* swim off a ledge to get popped back into normal (non-swimming) state
+

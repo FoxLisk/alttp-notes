@@ -1,0 +1,197 @@
+Maps
+Escape:      first keyguard chest
+Eastern:     East chest
+Desert:      top middle
+Hera:        main lobby
+PoD:         east side first chest
+Swamp:       First chest (bombable wall)
+Skull:       East of firerod
+Thieves:     NW of first room
+Ice:         H room (after icebreaker)
+Mire:        East of somaria (blue pegs down)
+TR:          Roller rom
+GT:          Double-firebar room
+
+Compasses
+Eastern:     after stalfos room
+Desert:      before cannonballs
+Hera:        Pearl room
+PoD:         4 turtle room (north of harmless hellway)
+Swamp:       South of main lobby
+Skull:       Southwest of firerod
+Thieves:     East of big key
+Ice:         South of junction room
+Mire:        North of torches tile room
+TR:          SW main lobby
+GT:          Far right side, NW chest
+
+Fire shield: 500 RUPEES dark west side breeze
+
+fake swords: NW of bird, NE of dropdown, SSW of dropdown, S of real grove (v < ^ through logs)
+
+bomb chests:
+  * Back of escape, leftmost
+  * Pod dark maze NW
+  * Thieves attic
+  * Ice double freezor
+  * 2x GT helma key room
+  * 2x GT rando room (both bottom chests) 
+  * GT hope room right
+  * Paradox cave lower, left
+  * Kak well bottom
+  * Saha closet middle
+  * dam
+  * Mini-moldorm left
+  * superbunny north
+
+Arrow chests:
+  * 2x GT rando room (both top chests)
+  * GT stalfos room (NE)
+  * GT hope room left
+  * GT bob's chest
+  * GT compass room SE
+  * Paradox cave lower, right
+  * Chicken hut
+  * mini-moldorm right
+  * back of escape right
+
+1 rupee chests:
+  * TR laserbridge NE
+  * Compass room NE
+
+5 rupee chests:
+  * PoD harmless hellway
+  * TR laser bridge NW
+  * Lamp (after lamp): links house, zelda's cell, uncle
+
+20 rupee chests:
+  * Swamp west of big key
+  * 2x swamp diver down room
+  * Thieves north of entrance
+  * TR laser bridge bottom right
+  * validation chest
+  * 2x GT stalfos room (both bottom chests)
+  * GT compass room SW
+  * 5x paradox cave upper
+  * Kak well top 3
+  * 4x blind's house
+  * 2x mini-moldorm inner
+  * superbunny south
+  * mire shed right
+  * 4x hype cave
+
+50 rupee chests:
+  * spiral cave
+  * saha closet L/R
+  * 4x hookshot cave 
+
+100 rupee chest(s):
+  * EP cannonballs
+
+300rupee "chests"
+  * brewery
+  * C-shaped
+  * mini-moldorm npc
+  * hype cave npc
+  * back of escape middle
+
+Heart pieces:
+ LW
+
+  Overworld
+   * Spec rock exterior
+   * hylia island
+   * race game
+   * Desert ledg
+   * outside dam
+   * Zora ledge
+   * floating island
+ 
+  Underworld
+   * Lost woods dropdown
+   * Lumberjacks
+   * Spec rock interior
+   * mimic cave
+   * Bonk rocks
+   * Graveyard ledge
+   * Kak well bombable wall
+   * blind's house bombable wall
+   * Checkerboard
+   * Aginah
+   * Cave 45
+ 
+ DW
+  * chest game
+  * mire shed left
+  * bumper ledge
+  * pyramid ledge
+  * dig game
+  * hammer pegs
+  
+Blupee room/rupee room
+ LW
+  * EP gwg ^>
+  * 
+ DW
+  * PoD basement
+  * Mire switch room SE
+  * mire NW of spooky 1 / north of spooky 2
+  * TR E of crystaroller ( from room before, it's > push block ^)
+
+Bonk rocks
+ LW
+  * W of sanc
+  * NE DM (fairy rocks)
+  * On the way to zora
+  * W of fortune teller
+  * Smith's screen
+  * Fairy cave NW of link's house
+
+Tile rooms
+  * Hera
+  * Mire
+  * GT
+  * Back of desert
+  * TODO
+
+* 4 NPCs:
+  * Zelda
+  * Old man
+  * Thief
+  * Blind
+  * purple chest
+  * kiki
+  * big bomb
+
+Houlihan 3 holes:
+  * Bomb into grave
+  * fall 3x then go into fairy cave east of sanc
+  * ??
+
+Followers: zelda, old man, purple chest, blind maiden, thief, kiki, big bomb
+
+Pull spots:
+  * 2 from rupee route
+  * hyrule courtyard
+  * pyramid left side thingy
+  * mario painting in LW C-house spot
+  * TR right foot
+
+Mini-helmas:
+  * Skull back
+  * Skull big chest dropdown
+  * GT invisible floor pre-ice armos
+  * GT trap room NE of tile room
+  * GT very top
+  * PoD every-fucking-where
+
+Telepathy Tiles
+ Ice
+  * Ice 1
+  * Stalfos knights
+  * Tall ice floor room
+
+TODO:
+  * Delete a chest item ??
+  * Delete old man ??
+  

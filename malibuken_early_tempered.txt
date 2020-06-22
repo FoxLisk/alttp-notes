@@ -1,0 +1,23 @@
+https://www.youtube.com/watch?v=kImYIcAMZ2k
+
+* down port off of the 3rd hump in the bottom left part of VoO
+* transition down
+* mirror wrap up
+* walk up a little bit (you can't see link but it's a gigantic window)
+  * if you walk up too high, you get a hop upwards. you want a hop downwards from the bottom of the screen around to the top. idk how to fix the up hop if it's possible.
+* dash right. your camera is now fixed more or less; you're genuinely interacting with the stuff on screen momentarily
+* go over beneath the red tree to your right and line up with the right side of the screen (you can't go too far; there's a wall)
+* walk up until the wall stops you
+* go right until you're between the sign and the wall
+* mirror
+* walk left; you'll scroll the screen
+* walk v and < until link is past the trees, the dash right
+* stop around the 2nd column of bushes (you can't go too far, you'll bonk and be fine)
+* walk v and you'll have to go <v and v> a little. eventually you can slash a few bushes out of your way going > and v. then you turn < and slash a bush that's about lined up with the race guy's head, then dash south lined up with him (you can dash too far, be careful), then walk > and ^ into the house
+* leave it, correct camera, go to your portal (is bonking the wall faster? idk). pick up the bush, line up on a good pixel, and throw the bush
+    * good px: A6F (v/^) A6E (^, v kills)) A70 (no correction needed; ^ is safe, v is safe); A71 (^/v safe, unnecessary) A72 (^/v safe, unnecessary), A74 is safe. basically A70-A75 are good, and A6F/A6E you can tap up to be safe.
+    * short version: get on y pixel A6E-A75, throw bush, tap up, then right, slash the bush and get your man.
+    * free setup: dash up and nudge the library wall
+    * if you mirror bonk just line up and try again
+
+seems to be about a minute slower than doing it with mitts. almost certainly optimal in 1-2 dungeons, maybe 3 or 4 as well.

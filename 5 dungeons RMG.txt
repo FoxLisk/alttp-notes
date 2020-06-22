@@ -1,0 +1,63 @@
+goals: rescue zelda, complete any 5 dungeons of your choice, then complete GT and kill ganon.
+
+potential route:
+
+1. escape as normal s&q eastern
+1. eastern get boots and bombs (and rupees? if you're below 10, anyway)
+1. s&q sanc DMA, get mirror, cave state PoD through hammer
+1. s&q mountain, clip to hera, get small key, go up, get pearl, get hookshot (fake clippers), mirror, herapot, kill moldorm
+1. DMD
+
+Now the route diverges; it's not known which of the following is best:
+
+route A (Fox & Sirius first attempt):
+  1. go to thieves, get tempered
+  1. do skull (entirely nmg)
+  1. s&q link's house, run west to fluteless mire and clip into desert
+  1. GT, finish
+
+route B (Doomtap theorycraft):
+  1. get firerod
+  1. thieves, tempered
+  1. desert, s&q, run to ice* 
+  1. GT, finish
+
+route C (many ppl, theorycraft):
+  1. thieves, tempered
+  1. desert, s&q
+  1. GT, AT, finish
+
+I don't think anyone has put together a whole thieves-less route, but it would be something like:
+  1. get tempered (mirror jump is reasonably fast but sucks infinitely; mirror wrap is reasonably fast and I haven't tested it yet, YBA is not as fast and you only get one chance)
+  1. do some dungeons. definitely desert, and then... maybe book/bombos/ice + aga tower? unclear.
+
+*or icewrap? you'll have mirrored into desert so you can get back to dw. s&q might be faster than running since you're not already in dw.
+===
+
+bomb route:
+saha          +3   3
+kiki skip     -1   2
+pod floor     -1   1
+hammerjump     0   1
+beetles       +1   2
+h2s           -1   1
+TT attic      -1   0
+TT basement   -1   -1
+fire rod      -1   -2
+ice armos     -1   -3
+
+so we should get:
+pod left side, 2nd bomb on hj, and 1 bomb in pod lobby (instead of dashing)
+
+===
+
+arrow route:
+
+eastern: leave w/ 7
+
+===
+
+tempered get 1:28 -> firerod get 2:51 (with c house lol)
+so firerod is ~1:20. sw finish at 5:16 so that's like a 2:30 dungeon if you're already getting firerod.
+
+but firerod first will be a little quicker (since you dont go down to voo and back up) & then you can do thieves after.

@@ -1,3 +1,4 @@
+```
 summary/flowchart:
   if left pokey is going ul:
     head towards the left pot
@@ -9,17 +10,20 @@ summary/flowchart:
     otherwise spin when you get lined up with the pot and then go hunt the other one down
   if either pokey is coming up and in:
     walk down ~1.5 tiles and spin it, then go hunting
+```
 
-  
+the rest is kinda hard to flowchart beyond "just do the inputs"
 
+image legend: white path is walking, green is dashing, red stars are spins. i did not include places where you need to hesitate. in double-spin rngs (most of them) you should slash as soon as you can while walking along the path.
 
-keydash: dash in, cancel left, dash up
-slow walk: wait for the roller to finish going < and then walk behind it
-fast walk: walk above the roller and around it while it's going <
+keydash: dash in, cancel left, dash up  
+slow walk: wait for the roller to finish going < and then walk behind it  
+fast walk: walk above the roller and around it while it's going <  
 
 
 dl dl (keydash)
 ![dl dl rng path](pokey2_dl_dl.png)
+
     * walk <v til you're about 1.5 tiles away from the wall lined up with the shooter.
     * walk a step v and a step <v, release spin. you want the pokey to be kinda jumping into you; this spin is done fairly high up
     * walk a step ^ and start a second spin. take a step v and spin when the pokey is bouncing off the wall. sometimes this is more of a <v depending on exact movement up to that point

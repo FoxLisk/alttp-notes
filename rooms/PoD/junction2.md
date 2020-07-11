@@ -5,7 +5,7 @@ General path here:
 ![junction2_path](junction2.png)
 
 
-#Timing
+# Timing
 
 I want to see a 90x and am happy with any 91x.
 
@@ -14,7 +14,7 @@ I want to see a 90x and am happy with any 91x.
 The menu is >>>.  I menu at the end of my walk left, to have a second to decide how to deal with the bari RNG. This isn't an important menu buffer; do it wherever you prefer.
 
 
-#What
+# What
 
 Hold ^ and start a dash. Timing dashes in rooms where the first thing you do is dash is pretty important.
 
@@ -24,7 +24,7 @@ There are 3 big protrusions (columns?) in the wall, with 2 big-tiles of regular 
 
 [TODO: centralized discussion on picking up bombs]
 
-#Why
+# Why
 
 The earlier you place the bomb, the earlier it explodes. The idea is to place the bomb as early as possible while still allowing you to throw it into place and get out of its blast radius. In real runs, you want several frames of leeway, because getting hit by your bomb is bad.
 

@@ -34,9 +34,9 @@ The earlier you place the bomb, the earlier it explodes. The idea is to place th
 
 [TODO: explanation on why losing hearts is bad, with full dungeon context]
 
-The goal for bombing the floor is to stand fully inside of the bombable floor when it opens, so you fall immediately. If you're high, you'll slip before you fall. If you're low, or your bomb is high, you'll take damage. Try to throw the bomb as low as you can, and then stand fully inside the floor to fall instantly. If you threw the bomb late, be aware and stand higher; losing hearts is worse than slipping for a few frames.
+The goal for bombing the floor is to stand fully inside of the bombable floor when it opens, so you fall immediately. If you're high, you'll slip before you fall. If you're low, or your bomb is high, you'll take damage. Try to throw the bomb as low as you can, and then stand fully inside the floor to fall instantly. If you threw the bomb late, be aware and stand higher; losing a heart is worse than slipping for a few frames.
 
-You in particular want to fall as high as possible; you're waiting on the bomb fuse no matter what, and your goal in the next room as at the top, so you want to enter it high.
+In particular, you want to fall as high as possible; you're waiting on the bomb fuse no matter what, and your goal in the next room as at the top, so you want to enter it high.
 
 You can pick up bombs from kinda far behind you. A big part of getting this room fast is placing the bomb pretty early, walking almost a whole big-tile, and then picking it up (because walking is faster when you're not holding something).
 
@@ -63,8 +63,8 @@ There are 2 main ways to mess up. First is to cancel your dash late and walk int
 The other way is to  place the bomb early, or else walk into the bari or get hit by a fireball. When this happens, there's two realistic possibilities:
 
 1. you can get the bomb on top of the bombable floor before it blows up. this can be done by:
-  1. throwing it but way higher than usual - in this case, just walk above the bbombable area and then walk back down after it opens, or, if you don't think you can, wait below the bombable area and then walk up into it when it opens.
-  1. picking it back up and walking on top of the floor. this is good if you get hit by a fireball when you're too high to throw the bomb and have it land on the bombable area. This costs a heart and you get knocked back before the floor opens, so it's pretty bad, but better than dropping a whole new bomb.
+    1. throwing it but way higher than usual - in this case, just walk above the bbombable area and then walk back down after it opens, or, if you don't think you can, wait below the bombable area and then walk up into it when it opens.
+    1. picking it back up and walking on top of the floor. this is good if you get hit by a fireball when you're too high to throw the bomb and have it land on the bombable area. This costs a heart and you get knocked back before the floor opens, so it's pretty bad, but better than dropping a whole new bomb.
 
 If you can't get your first bomb to blow up the floor and need to place a second one, you want to walk < until Link is kissing the left rail, and then place a bomb. The bomb will look like it should fall, but it won't. You can then walk all the way > and kiss the right wall, and you will be outside the blast radius. This allows you to fall instantly when the floor opens. 
 

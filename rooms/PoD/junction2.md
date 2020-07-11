@@ -24,15 +24,15 @@ Hold ^ and start a dash. Timing dashes in rooms where the first thing you do is 
 
 Cancel dash < about 1 big-tile (16px) [TODO: tile definitions] above the horizontal wall. 
 
-There are 3 big protrusions (columns?) in the wall, with 2 big-tiles of regular wall between them. When you're approximately 1 big-tile away from the rightmost protrustion, place a bomb. Start walking <^ until you clear the rail, then throw the bomb up when your feet are just barely past the bottom of the horizontal rail. Continue walking up until you're lined up with the top big-tile of the bombable area.
+There are 3 big protrusions (columns?) in the wall, with 2 big-tiles of regular wall between them. When you're approximately 1 big-tile away from the rightmost protrustion, place a bomb. Start walking <^ and pick up the bomb as late as possible. Continue walking <^ until you clear the rail, then switch to ^ and throw the bomb ^ when your feet are just barely past the bottom of the horizontal rail. Continue walking up until you're lined up with the top big-tile of the bombable area.
 
 [TODO: centralized discussion on picking up bombs]
 
 # Why
 
-The earlier you place the bomb, the earlier it explodes. The idea is to place the bomb as early as possible while still allowing you to throw it into place and get out of its blast radius. In real runs, you want several frames of leeway, because getting hit by your bomb is bad.
+The earlier you place the bomb, the earlier it explodes. The idea is to place the bomb as early as possible while still allowing you to throw it into place and get out of its blast radius. In runs, you want several frames of leeway, because getting hit by your bomb is bad.
 
-[TODO: explanation on why losing hearts is bad, with full dungeon context]
+[TODO: explanation on why losing hearts in pod is bad, with full dungeon context]
 
 The goal for bombing the floor is to stand fully inside of the bombable floor when it opens, so you fall immediately. If you're high, you'll slip before you fall. If you're low, or your bomb is high, you'll take damage. Try to throw the bomb as low as you can, and then stand fully inside the floor to fall instantly. If you threw the bomb late, be aware and stand higher; losing a heart is worse than slipping for a few frames.
 

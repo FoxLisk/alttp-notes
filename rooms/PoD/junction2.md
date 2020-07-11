@@ -63,7 +63,7 @@ There are 2 main ways to mess up. First is to cancel your dash late and walk int
 The other way is to  place the bomb early, or else walk into the bari or get hit by a fireball. When this happens, there's two realistic possibilities:
 
 1. you can get the bomb on top of the bombable floor before it blows up. this can be done by:
-    1. throwing it but way higher than usual - in this case, just walk above the bbombable area and then walk back down after it opens, or, if you don't think you can, wait below the bombable area and then walk up into it when it opens.
+    1. throwing it but way higher than usual - in this case, just walk above the bombable area and then walk back down after it opens, or, if you don't think you can, wait below the bombable area and then walk up into it when it opens.
     1. picking it back up and walking on top of the floor. this is good if you get hit by a fireball when you're too high to throw the bomb and have it land on the bombable area. This costs a heart and you get knocked back before the floor opens, so it's pretty bad, but better than dropping a whole new bomb.
 
 If you can't get your first bomb to blow up the floor and need to place a second one, you want to walk < until Link is kissing the left rail, and then place a bomb. The bomb will look like it should fall, but it won't. You can then walk all the way > and kiss the right wall, and you will be outside the blast radius. This allows you to fall instantly when the floor opens. 

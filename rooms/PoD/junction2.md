@@ -11,7 +11,11 @@ I want to see a 90x and am happy with any 91x.
 
 # Menu
 
-The menu is >>>.  I menu at the end of my walk left, to have a second to decide how to deal with the bari RNG. This isn't an important menu buffer; do it wherever you prefer.
+The menu is `>>>`.  I menu at the end of my walk left, to have a second to decide how to deal with the bari RNG. This isn't an important menu buffer; do it wherever you prefer.
+
+If you have powder/shroom, you can do a 2-move menu instead of `>>>`. My recommendation is to do all possible menus as if you don't have powder/shroom unless you intend to never drop them.
+
+[TODO: general philosophy writeup]
 
 
 # What

@@ -28,6 +28,11 @@ There are 3 big protrusions (columns?) in the wall, with 2 big-tiles of regular 
 
 [TODO: centralized discussion on picking up bombs]
 
+-----
+
+Alternatively, you can cancel the first dash a little early and dash left instead of walking left. Then you want to cancel your second dash with an ^ input and place the bomb immediately. This is about 10 frames slower, so do it if you like it better.
+
+
 # Why
 
 The earlier you place the bomb, the earlier it explodes. The idea is to place the bomb as early as possible while still allowing you to throw it into place and get out of its blast radius. In runs, you want several frames of leeway, because getting hit by your bomb is bad.
@@ -41,10 +46,6 @@ In particular, you want to fall as high as possible; you're waiting on the bomb 
 You can pick up bombs from kinda far behind you. A big part of getting this room fast is placing the bomb pretty early, walking almost a whole big-tile, and then picking it up (because walking is faster when you're not holding something).
 
 [TODO: explanation on picking up bombs]
-
------
-
-Alternatively, you can cancel the first dash a little early and dash left instead of walking left. Then you want to cancel your second dash with an ^ input and place the bomb immediately. This is about 10 frames slower, so do it if you like it better.
 
 -----
 
@@ -64,9 +65,8 @@ The other way is to  place the bomb early, or else walk into the bari or get hit
 
 1. you can get the bomb on top of the bombable floor before it blows up. this can be done by:
     1. throwing it but way higher than usual - in this case, just walk above the bombable area and then walk back down after it opens, or, if you don't think you can, wait below the bombable area and then walk up into it when it opens.
-    1. picking it back up and walking on top of the floor. this is good if you get hit by a fireball when you're too high to throw the bomb and have it land on the bombable area. This costs a heart and you get knocked back before the floor opens, so it's pretty bad, but better than dropping a whole new bomb.
 
-If you can't get your first bomb to blow up the floor and need to place a second one, you want to walk < until Link is kissing the left rail, and then place a bomb. The bomb will look like it should fall, but it won't. You can then walk all the way > and kiss the right wall, and you will be outside the blast radius. This allows you to fall instantly when the floor opens. 
+1. you can't get the first bomb to blow up the floor and need to place a second one. In this case, you want to walk < until Link is kissing the left rail, and then place a bomb. The bomb will look like it should fall, but it won't. You can then walk all the way > and kiss the right wall, and you will be outside the blast radius. This allows you to fall instantly when the floor opens. 
 
 ![junction2_recovery_1.png](junction2_recovery_1.png)
 ![junction2_recovery_2.png](junction2_recovery_2.png)

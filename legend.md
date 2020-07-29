@@ -3,6 +3,7 @@ I've got rooms annotated with shitty MS paint drawings to indicate the general f
 sorry this sucks so far
 
 | symbol | meaning | example |
+| ---------- | ---- | ------ |
 | white line | walk | - |
 | green line | dash | - |
 | item | place item | - |

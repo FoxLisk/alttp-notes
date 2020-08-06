@@ -83,4 +83,4 @@ If you bonk on 00-07 you can open the chest and then dash down immediately as if
 
 ----
 
-* it's possible it's not a frame rule but I'm pretty sure
+\* it's possible it's not a frame rule but I'm pretty sure

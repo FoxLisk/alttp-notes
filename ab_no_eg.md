@@ -1,16 +1,19 @@
 AD route thru kiki skip/pod reload
 
-#PoD:
+# PoD:
+
   * Go directly to the bridge and deathhole\* to get to the big key. grab bombs/arrows
   * Go hammeryump.
   * Statue Drag\*
   * Kill Helma
 
-#Escape:
+# Escape:
+
   * Save & Quit (you are put automatically into sanc)
   * river clip, etc, etc, you know the drill 
 
-#Thieves (/Collection):
+# Thieves (/Collection):
+
   * Save & Quit to old man
   * Hera clip
   * Walk far enough into the room that you're definitely not in door state
@@ -98,6 +101,7 @@ AD route thru kiki skip/pod reload
     * you can north somaria in the first room of skull exit, but that crashes on my machine
 
 # Hera
+
   * you need at least 2 bombs
   * get ice rod
     1. bridge screen right of link's house: downward teleport on 3rd hump on the left slope
@@ -114,11 +118,13 @@ AD route thru kiki skip/pod reload
   * kill the boss
  
 # Turtle Rock
+
   * get ether
   * mirror wrap
   * kill trinexx (you do not need big key!)
 
 # Agah 2 (?)
+
   * after the cutscene, tap v to snap into place and then ^ to walk into tr
   * in the platform lobby, quadrant glitch going upwards (Y-900)
     * the first frame that the platform totally covers the bloack line before the -| joint is 901, the frame after that is when to release
@@ -130,6 +136,7 @@ AD route thru kiki skip/pod reload
   * kill agah 2
 
 # Mire
+ 
   * run over to mire (yes, you just have to hoof it)
   * clip in
   * go into the dungeon
@@ -141,6 +148,7 @@ AD route thru kiki skip/pod reload
     * Alternatively do the Somaria-Only Hookpush\*
   
 # Desert
+
   * Mirror
   * Go kill lanmo
   * mirror out after the heart but before the pendant
@@ -204,15 +212,10 @@ AD route thru kiki skip/pod reload
 
 # win the game
   * you know what it is
-  
-
-
-  
-
 
 # TRICKS
 
-Deathhole:
+## Deathhole:
 
 NOTE: If you do something wrong with a bomb, make sure you let it fully finish exploding and be off screen before you place a new bomb to try again. Placing the 2nd bomb while there's one on screen will put it in slot 0 and the deathhole will crash.
 
@@ -225,7 +228,7 @@ NOTE: If you do something wrong with a bomb, make sure you let it fully finish e
  1. maybe menu to mirror during the fall since your menu is solid black at this point
 
 
-Statue Drag:
+## Statue Drag:
 
  1. go touch the statue in the 2nd room and mirror
     * this puts you in a state where if you hit A you will grab a nonexistent statue. This overrides picking up bombs, in particular
@@ -242,7 +245,8 @@ Statue Drag:
  1. in helma's room, walk left into a spike, then hold <^ to get around the spikes. then walk down and kill the spiky boi.
 
 
-Overworld Conveyor
+## Overworld Conveyor
+ 
  (starts ~1:20:40 in Chex's tutorial)
 
  1. Get yourself lined up against the first / slope in the ether tablet island
@@ -256,7 +260,7 @@ Overworld Conveyor
  1. pick up a bomb, throw it, pick up another bomb
  1. after the bomb hits you is when you can release sword
 
-North Somaria
+## North Somaria
  (starts ~1:48:00)
 
  1. Place a somaria block semi inside the door. Do this by abutting the  wall facing north slightly to the left of the left edge of the doorway.
@@ -271,7 +275,7 @@ North Somaria
 
 Now you get rid of the block however and leave the door, i.e. by holding down, throwing the block, and dashing out.
 
-East Somaria
+## East Somaria
  (Starts ~1:50:00)
 
  1. Hold your sword out facing down.
@@ -298,9 +302,9 @@ East Somaria
     
  TODO: this causes massive graphical corruption, is that... bad?
 
-South Somaria
- (Starts ~2:00:00)
+## South Somaria
 
+ (Starts ~2:00:00)
  (demo with link visible at ~2:10:00)
 
  1. pick up a block, walk into the door (it won't let you; this is just to line up)
@@ -327,7 +331,8 @@ South Somaria
  1. walk v a bunch (Chex goes as low as B06 which is like over a tile)
  1. hold ^ to transition into thieves town
 
-Bomb Juke
+## Bomb Juke
+
   (Starts ~2:04:40)
 
  1. Abut the south wall, nudge into the door a bit to make sure you're placing it pretty deep
@@ -342,7 +347,8 @@ Bomb Juke
     * use the zazak's animation to time this
  1. pick up the bomb, tap ^ to snap, throw the bomb, walk down. you'll come down from the top of the screen.
 
-West Somaria
+## West Somaria
+
   (Starts about 2:23:00)
 
 This is like a combination of North and East somarias. You do a setup more like an East, but then you don't have to do the extra back and forth buffers
@@ -354,7 +360,7 @@ This is like a combination of North and East somarias. You do a setup more like 
  1. repeat until you're deep in the wall (with the block not in your hands, only your shield is visible)
  1. tap <
  
-Mire Hookpush
+## Mire Hookpush
   (Starts about 3:10)
 
  1. Lamp 3x as setup
@@ -367,7 +373,8 @@ Mire Hookpush
  1. walk up into the maze, go into the top right corner, and hook down
  1. kill vitty
 
-Somaria-Only Hookpush
+## Somaria-Only Hookpush
+
   (starts at about 3:15:33)
 
 Requires beams
@@ -383,7 +390,8 @@ Requires beams
  1. turn up and dust-slash
  1. walk up above the torch, dash turn down, and dust-hook (you have to kick up dust to get the push)
 
-Bomb snap
+## Bomb snap
+
   (starts ~3:29:00)
 
  1. place a bomb in the door. The one in swamp is an auto door, so i'm holding my sword out, lining up with the non-autodoor part of the wall to the right, and then pulling back to the left

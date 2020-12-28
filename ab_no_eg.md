@@ -73,8 +73,8 @@ AD route thru kiki skip/pod reload
     * hold v> until you're like halfway between the middle of the room and the east wall, then walk into the door
   * in the swamp room, hold <^ until you get to the stairs, then walk up and open the hookshot
   * exit by dashing through the bottom-right door (the one you'd normally enter by in nmg)
-    * if you get a screen wrap or not, it's fine. just walk through the same exit again
-      * i think
+    * you want to exit the bottom-right door without moving left, and then do it again
+    * if you move to the left, you want to transition left and then exit the bottom-right door again
   * quickhop left
   * dash up (you will appear in the corridor with the pot key)
   * walk slightly left, then up (you will down(?) some stairs) and dash out of the room
@@ -105,10 +105,10 @@ AD route thru kiki skip/pod reload
   * you need at least 2 bombs
   * get ice rod
     1. bridge screen right of link's house: downward teleport on 3rd hump on the left slope
-    1. dash over to the right, walk above the invisible collision
+    1. dash over to the right, nudge above the invisible collision
     1. on the next screen, dash right
     1. out of the dash, quickhop down
-    1. hold \<v until you start walking straight down
+    1. hold <v until you start walking straight down
     1. switch to v> until you hit the transition
     1. hold ^> until you hop down and walk a step
     1. walk into ice rod cave
@@ -159,6 +159,7 @@ AD route thru kiki skip/pod reload
   * Put a block down
   * Bomb snap\* into the door
   * Spin mirror door (hold sword out, then mirror + ^ on the same frame
+    * this bomb snap + spin mirror is required because we do not have flippers
   * wait
   * kill arrghus (drag him to top, run back down, spin spin)
   * pick up pendant

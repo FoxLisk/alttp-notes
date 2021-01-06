@@ -1,30 +1,30 @@
-| Where               | Δ    | Σ (ideal) |Σ (necessary) |  alternative/cost/notes
-|  ---                | ---- | -- | --
-| start               |      | 0  | 0
-| Saha's closet       | +3   | 3  | 3
-| Kiki skip           | -1   | 2  | 2  | sword clippable if you're a lunatic
-| PoD before big key  | +4   | 6  | 6  | left room, both middle rooms before reload, and 1 middle room going to big key
-| Deathhole           | -2   | 4  | 4
-| PoD falldown        | +1   | 5  | 5  | This is ~2.5s, but it includes arrows. maybe can be optimized out later?
-| PoD middle room     | +1-2 | 6  | 6  | +1s for the second bomb
-| Hammeryump          | +0-1 | 7  | 6  | 2nd bomb costs like 20f but some people don't like it
-| PoD middle room     | +1-2 | 8  | 7  | +1s for the second bomb
-| Statue drag         | -2   | 6  | 5
-| Statue drag pickup  | +1   | 7  | 5  | 7 lets you fail overworld conveyor and retry once without resetting
-| Overworld conveyor  | -2   | 5  | 3
-| Uncle->TT           | -3   | 2  | 0 
-| TT Attic            | +0-5 | 7  | 5  | \*
-| TT Bombable floor   | -1   | 6  | 4  
-| TT Toilet           | +1   | 7  | 5  | 40f
-| Fire Rod            | -1   | 6  | 4  | hover (or re-route entirely and do intended)
-| Link's house gamble | +1   | 5  | 4  | 50% chance
-| Ice rod cave        | -1   | 5  | 3  | \*\*
-| Laser Bridge door   | -1   | 4  | 2
-| Arrghus clip        | -1   | 3  | 1 
-| Link's house gamble | +1   | 3  | 1  | 50% chance
-| splashless          | -0/2 | 1  | 1  | alt: clip & FAST (loses ~7s)
-| Ice bomb clip       | -1   | 1  | 0  | sword/otherwise buffer
-| Bombable Floor      | -1   | 0  | 0  | somaria block (throw or itemdash)
+| Where               | Δ    | Σ (ideal) |Σ (necessary) |  alternative/cost/notes |
+|  ---                | ---- | -- | -- |
+| start               |      | 0  | 0 |
+| Saha's closet       | +3   | 3  | 3 |
+| Kiki skip           | -1   | 2  | 2  | sword clippable if you're a lunatic |
+| PoD before big key  | +4   | 6  | 6  | left room, both middle rooms before reload, and 1 middle room going to big key |
+| Deathhole           | -2   | 4  | 4 |
+| PoD falldown        | +1   | 5  | 5  | This is ~2.5s, but it includes arrows. maybe can be optimized out later? |
+| PoD middle room     | +1-2 | 6  | 6  | +1s for the second bomb |
+| Hammeryump          | +0-1 | 7  | 6  | 2nd bomb costs like 20f but some people don't like it |
+| PoD middle room     | +1-2 | 8  | 7  | +1s for the second bomb |
+| Statue drag         | -2   | 6  | 5 |
+| Statue drag pickup  | +1   | 7  | 5  | 7 lets you fail overworld conveyor and retry once without resetting |
+| Overworld conveyor  | -2   | 5  | 3 |
+| Uncle->TT           | -3   | 2  | 0  |
+| TT Attic            | +0-5 | 7  | 5  | \* |
+| TT Bombable floor   | -1   | 6  | 4   |
+| TT Toilet           | +1   | 7  | 5  | 40f |
+| Fire Rod            | -1   | 6  | 4  | hover (or re-route entirely and do intended) |
+| Link's house gamble | +1   | 5  | 4  | 50% chance |
+| Ice rod cave        | -1   | 5  | 3  | \*\* |
+| Laser Bridge door   | -1   | 4  | 2 |
+| Arrghus clip        | -1   | 3  | 1  |
+| Link's house gamble | +1   | 3  | 1  | 50% chance |
+| splashless          | -0/2 | 1  | 1  | alt: clip & FAST (loses ~7s) |
+| Ice bomb clip       | -1   | 1  | 0  | sword/otherwise buffer |
+| Bombable Floor      | -1   | 0  | 0  | somaria block (throw or itemdash) |
 
 "ideal" column isn't like... that ideal. it's just one route to have enough for splashless at the end. Here's the bomb route I'm personally considering for trying to get splashless (and have safety along the way)
 

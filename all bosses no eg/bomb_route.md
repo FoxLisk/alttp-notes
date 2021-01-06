@@ -26,6 +26,7 @@
 | Ice bomb clip       | -1   | 1  | 0  | sword/otherwise buffer |
 | Bombable Floor      | -1   | 0  | 0  | somaria block (throw or itemdash) |
 
+
 "ideal" column isn't like... that ideal. it's just one route to have enough for splashless at the end. Here's the bomb route I'm personally considering for trying to get splashless (and have safety along the way)
 
 # Fox's intended pickups

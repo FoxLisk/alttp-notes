@@ -1,5 +1,5 @@
 | Where               | Δ    | Σ (ideal) |Σ (necessary) |  alternative/cost/notes |
-|  ---                | ---- | -- | -- |
+| ------------------- | ---- | -- | -- |
 | start               |      | 0  | 0 |
 | Saha's closet       | +3   | 3  | 3 |
 | Kiki skip           | -1   | 2  | 2  | sword clippable if you're a lunatic |

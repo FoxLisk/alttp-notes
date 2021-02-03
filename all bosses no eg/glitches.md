@@ -162,16 +162,17 @@ This is like a combination of North and East somarias. You do a setup more like 
 
 Requires beams
 
- 1. Lamp 3x
+ 1. Lamp 3x (left or up)
  1. Hold sword out
  1. place and break a somaria block
  1. kick up dust and place another somaria block during the explosion (gets you a slot-9 block if done correctly)
- 1. walk up (to the right of the torch, kinda)
- 1. kick up dust, place a block (slot 3 block)
- 1. break the block and slash
- 1. turn down and dust-block
- 1. turn up and dust-slash
+ 1. dash-block
+ 1. break the block and beam up
+ 1. dash-block
+ 1. dash-beam down
  1. walk up above the torch, dash turn down, and dust-hook (you have to kick up dust to get the push)
+
+Haven't found a great setup to not accidentally pick up a block or some dumb thing like that while avoiding the medusa. Link's direction only matters while beaming though, afaict anyway (after the initial lamps).
 
 ## Bomb snap
 

@@ -63,7 +63,7 @@ AD route thru kiki skip/pod reload
     * tap right in conveyor toilet before anything else
     * open up the hallway door on your way out
   * Reload TT
-  * There's 10 rupees in the pot at the NE of the first room if you have < 10
+  * There's 5 rupees in the pot at the NE of the first room if you have < 10
   * do TT as normal (big key, attic, optionally get bombs in the attic) UNTIL
   * after rescuing the maiden, do a [west somaria](glitches.md#west-somaria) out of the jail room
   * after the west somaria, dash right until just about at the wall, then dash left until just about at the door, to fix the camera

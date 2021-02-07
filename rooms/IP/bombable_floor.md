@@ -10,7 +10,7 @@ You want the bomb to land sort of inside the wall, far enough right to hit the s
 
 Stand lined up with the right rail. This will drop you into the position you want to be in for the next room.
 
-_** DO NOT STAND TO THE LEFT **_
+_ **DO NOT STAND TO THE LEFT** _
 
 Standing to the left _is not safer_. Bomb hitboxes are square, and the bomb hits all the way to the left side of the bombable floor, even if you throw it as far right as possible; i.e. you cannot be safe from it horizontally.
 

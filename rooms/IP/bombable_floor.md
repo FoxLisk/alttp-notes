@@ -6,7 +6,7 @@ Throw the bomb down while aligned vertically with the fat rail. Horizontally you
 
 You want the bomb to land sort of inside the wall, far enough right to hit the switch. It's pretty hard to mess up the vertical part - you have to throw from some weird range of pixels far above the rail - but the horizontal part takes some getting used to. Luckily, at least if you're doing the 2 bomb version, if you miss the switch you can just hit it in the conveyor room at a minor time cost.
 
-# Standing
+# Standing After The Bomb Is In Place
 
 Stand lined up with the right rail. This will drop you into the position you want to be in for the next room.
 

@@ -1,14 +1,12 @@
 # This is EXTREMELY incomplete and probably full of bad info.
 
-# With Gold Sword/Silver Arrows [should have a link]
+# Tempered fight:
 
-No write-up yet, but I have [a short phase-4-with-silvers beginner tutorial](https://www.twitch.tv/videos/672410278). It's not very good but has some info on how to do it as a beginner.
+# 1+1
 
-## Phase 1 & 2
+Do the inputs. Pick your favourite strats from the ones on display [on the wiki](https://alttp-wiki.net/index.php/Ganon) and do them.
 
-These are covered well in [the wiki](https://alttp-wiki.net/index.php/Ganon). I recommend just watching those gifs and mimicking them for the 1+1.
-
-## Phase 3
+# Phase 3
 
 Ganon warps to a new location; as always he alternates between top and bottom.
 
@@ -22,25 +20,6 @@ After those 65 frames, there are another 30 frames where you can slash him but i
 
 Thus, an optimal phase 3 hit saves 98 frames (30 + 65 + a 183 vs a 180 frame warp) over a maximally bad phase 3 hit.
 
-## Phase 4
-
-[should have a link to torch glitch]
-
-Get torch glitch if you're struggling. "[Everybody knows](https://web.archive.org/web/20190831022348/https://thezvi.wordpress.com/2019/07/02/everybody-knows/)" that you don't need to get torch glitch if you have silvers. This advice is actually aimed at players who are comfortable with the gold sword/silver arrows Ganon fight; since this is the "beginner" route, many people assume that there is no meaningful differentiation within the group who get gs/sa, despite the fact that these people run the gamut from "die multiple times to ganon, regularly" to "have top 100 times on [src](https://www.speedrun.com/alttp#No_Major_Glitches)." If you are just now starting out, and you are having any trouble at all getting 4 silver arrows into Ganon, _get torch glitch_. It will help.
-
-[An unscripted tutorial covering just phase 4 with silvers](https://www.twitch.tv/videos/672410278).
-
-
-Tempered fight:
-
-# 1+1
-
-Do the inputs. Pick your favourite strats from the ones on display [on the wiki](https://alttp-wiki.net/index.php/Ganon) and do them.
-
-# Phase 3
-
-Hit him 4 times
-
 # Phase 4
 
 AFAIK no one has written up an exhaustive explanation of what to do in every situation in phase 4. I am going to attempt to remedy that.
@@ -48,7 +27,7 @@ AFAIK no one has written up an exhaustive explanation of what to do in every sit
 ### Disclaimers:
 
   1. The strats here are my preference. Some situations permit multiple solutions. I will not be covering alternatives.
-  1. I will not be covering capespins, and I have no advice for blue Ganon. This is a guide for astandard Ganon fight with no fancy stuff.
+  1. I will not be covering capespins, and I have no advice for blue Ganon. This is a guide for a standard Ganon fight with no fancy stuff.
   1. It would be dope to have gifs for all of this, but who has the energy
 
 ### Terminology:
@@ -109,6 +88,7 @@ I always get a left recoil on the first spin, and then
 Charts: Ganon is warping from the left column to the right column; do I go for the early double? (the diagonal is blue ganon)
 
 |    | T1 | T2 | T3 | T4 |
+| -- | -- | -- | -- | -- |
 | T1 |    | Y  |  N | N  |
 | T2 | Y  |    |  N | N  |
 | T3 | Y  |  Y |    | N  |
@@ -116,9 +96,29 @@ Charts: Ganon is warping from the left column to the right column; do I go for t
 
 
 |    | B1 | B2 | B3 | B4 |
+| -- | -- | -- | -- | -- |
 | B1 |    | Y  | Y  | N  |
 | B2 | Y  |    | Y  | N  |
 | B3 | Y  | Y  |    | N  |
 | B4 | ?  | Y  | Y  |    |
 
 \*\* unless I'm feeling saucy (dead run and I wanna flex)
+
+
+# With Gold Sword/Silver Arrows
+
+## Phase 1 & 2
+
+## Phase 3
+
+Identical to the tempered fight
+
+## Phase 4
+
+[should have a link to torch glitch]
+
+Get torch glitch if you're struggling. "[Everybody knows](https://web.archive.org/web/20190831022348/https://thezvi.wordpress.com/2019/07/02/everybody-knows/)" that you don't need to get torch glitch if you have silvers. This advice is actually aimed at players who are comfortable with the gold sword/silver arrows Ganon fight; since this is the "beginner" route, many people assume that there is no meaningful differentiation within the group who get gs/sa, despite the fact that these people run the gamut from "die multiple times to ganon, regularly" to "have top 100 times on [src](https://www.speedrun.com/alttp#No_Major_Glitches)." If you are just now starting out, and you are having any trouble at all getting 4 silver arrows into Ganon, _get torch glitch_. It will help.
+
+[An unscripted tutorial covering just phase 4 with silvers](https://www.twitch.tv/videos/672410278).
+
+

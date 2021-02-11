@@ -27,6 +27,6 @@ If you do it about this fast, you can walk straight down and dash as soon as you
 
 If you're around here, go <v like 1/2-3/4 a tile before dashing down:
 
-![roller_room_medium](roller_room_kind_fast.png)
+![roller_room_medium](roller_room_kinda_fast.png)
 
 You'll have to do it a bunch to get a feel for how far to adjust left before you take the first hit based on how fast you got to the chest.

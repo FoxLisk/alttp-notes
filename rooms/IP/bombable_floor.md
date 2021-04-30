@@ -8,6 +8,8 @@ You want the bomb to land sort of inside the wall, far enough right to hit the s
 
 # Standing After The Bomb Is In Place
 
+Optimally you want to run into a bari right before the bomb explodes and then make it into position on the bombable floor to fall instantly when the bomb goes off. If the bari doesn't cooperate or it would cost you beams in conveyor room, simply walk into position on the pegs and wait.
+
 Stand lined up with the right rail. This will drop you into the position you want to be in for the next room.
 
 **DO NOT STAND TO THE LEFT**

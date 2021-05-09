@@ -45,3 +45,10 @@ Mostly, I've been doing a brief recording in OBS, trimming the video to size usi
 1. The trim should already be right
 1. Size: 480xAUTO seems good
 1. Frame rate: 20. 25 does not divide 30 so there's no point.
+
+
+## ffmpeg steps:
+
+1. given a bunch of images from, e.g., bizhawk screencaps:
+  1. something like `ffmpeg -i up/%02d.png -vf palettegen -y up_palette.png` to generate a palette
+  1. something like ` ffmpeg -v debug -framerate 4 -i up/%02d.png -i up_palette.png -lavfi paletteuse  -y up_slash.gif` to generate the actual gif

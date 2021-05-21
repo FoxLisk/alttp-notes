@@ -5,3 +5,6 @@ AD route.txt
 rooms/TR/pokey2.png
 rooms/PoD/podmap.png
 images/bomb.png
+images/hitboxes/slashes/palette.png
+images/hitboxes/slashes/up_palette.png
+disasm_stuff/bombdmg.asm

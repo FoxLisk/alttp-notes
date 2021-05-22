@@ -1,3 +1,3 @@
-Hold ^> through the transition, mash L/R to clear the text.
+Hold ^> through the transition and through the text.
 
-After you pass the first big pot, you'll have to enter the stairs cleanly; that's not automatable.
+After you pass the first big pot, the rest is not automatable.

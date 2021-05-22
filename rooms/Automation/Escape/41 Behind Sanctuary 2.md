@@ -1,2 +1,3 @@
-Hold A while entering the room and don't let go.
-Dodge the textbox, hold > to nudge the corner and stay on the wall. After text, move to the switch, let go of DPad, then hold v. Because you're holding A, you will auto pull the switch.
+Hold > entering the room. v> towards the switch after you've cleared the skippable textbox.
+
+If you aren't already holding A, press it during the switch text and don't let go.

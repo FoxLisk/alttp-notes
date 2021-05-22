@@ -1,1 +1,1 @@
-Keep holding < and tapping ^ to get across the room to the door.
+Non-automatable. We encourage pumping.

@@ -1,2 +1,3 @@
-Hold v> through the transition, slash upon entering. Hold ^> to press against statues/chest, keep holding til link is halfway past the last statue and release B.
-During spin, buffer <^ to slide to chest.
+Hold v> through the transition and slash after about a tile of movement. Kill the guard, then during the spin, buffer <^ to slide to chest.
+
+Note: if your spin on the guard is very far right, this <^ input might cause you to walk up instead of left.

@@ -1,2 +1,1 @@
-Either hold > the entire screen once you're under the wall, or hold > until the very end then ^>.
-First option saves one anti pump for free.
+Hold >. You should switch to ^> to not nudge the tree on the next screen, but you can do it on this scren or the next one.

@@ -6,33 +6,33 @@
 
  * houlihan (225)
  * eastern (100 + 90, 415 total)
+   * gwg: kill the greenie, then go to the rupee room, pick up key on way out.
  * saha rupees (515) - need 10 in drops
 
 # pod
 
  * s&q sanc
- * tavern, bottle merchant
+ * merchant, tavern
  * s&q link's
  * 2 blues
-
  * fake flute DM
  * get mirror
  * get pearl (no clipping or anything, gotta run)
- * fake flute 5 and do pod - no hammerjump, need 160 rupees from basement
+ * fake flute 5 and do pod - get 160 rupees & basement key, do a top jump, mirror after hammer.
 
 # Thieves
 
  * run to witch's hut and get a blue
  * warp back to DW
- * FF to 3
+ * FF to 3, leave and re-enter screen, do thieves
+   * dash down and right, leave kak close to the right post of the archway
  * dungeon as normal except no lift upgrade for basement
 
 # Skull Woods
 
  * Run to grove, get flute - cutscene skip
- * get dwarf & book on way back, get tempered, get C-house
- * activate flute, back to dw, run to sw
-
+ * get dwarf & book on way back, get tempered
+ * activate flute, back to dw in lost woods portal
  * do sw
 
 # Mire

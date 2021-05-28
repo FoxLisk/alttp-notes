@@ -24,4 +24,4 @@ Bridge screen: 415, 412, 413
 
 Lake: 1704, 1737, 1628 (swimming is hard)
 
-tota: 21s
+Total: 21s

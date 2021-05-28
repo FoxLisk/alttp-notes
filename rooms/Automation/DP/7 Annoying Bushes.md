@@ -1,3 +1,3 @@
 Buffer <^ through the transition and start dash ASAP.
 
-Remainder of the screen is not automated.
+Cut dash somewhere above the bushes and dash down.

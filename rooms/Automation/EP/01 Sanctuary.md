@@ -1,0 +1,1 @@
+You can hold v as soon as you hear the chime during text, and as late as any time before the final textbox. Doing this you will never accidentally talk to the priest twice, and you will move first frame.

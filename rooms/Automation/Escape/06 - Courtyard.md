@@ -1,1 +1,3 @@
-Not much here, but you can hold <v exiting the passage door til you align with the bush.
+Hold <v through the transition until you line up with the bush.
+
+Once between the fence and the bush, hold <v until you clear the block of bushes.

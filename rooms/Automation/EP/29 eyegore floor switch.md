@@ -1,3 +1,1 @@
-Hold <v and loose anti pump once to hit the switch, buffer <^ and hold to align with door
-
-# TODO: a visual cue for walking < into <v to the switch.
+Hold < until Link is fully past the first blue circle floor tile. Hold <v until you hit the switch, buffer <^ until aligned with the door.

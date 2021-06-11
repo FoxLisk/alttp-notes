@@ -1,4 +1,4 @@
-Walk > until Link is out of the doorway, then v until Link is below the torch.
+Walk v> until Link is below the torch.
 
 Dash > until Link is above the beamos. Dash up to the wall.
 

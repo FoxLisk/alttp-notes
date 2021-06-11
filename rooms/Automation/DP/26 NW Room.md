@@ -1,1 +1,1 @@
-Buffer <^ and dash < to the door. Snap in.
+Buffer <^ and dash < to the door.

@@ -1,3 +1,3 @@
-Buffer <^ through the transition and start dash < ASAP.
+Buffer <^ through the transition and dash <.
 
-Cut dash somewhere above the bushes and dash v.
+Rest N/A

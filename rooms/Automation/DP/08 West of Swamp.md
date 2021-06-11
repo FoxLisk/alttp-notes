@@ -1,3 +1,1 @@
-Buffer forward-progressing movement.
-
-Dash v, then dash <.
+Hold v, dash v, dash < by the top of the dirt.

@@ -1,4 +1,4 @@
-<h3>There's many strategies for this room and you can do different things. This is one example of how to automate the room.</h3>
+# There's many strategies for this room and you can do different things. This is one example of how to automate the room.
 
 Buffer <^ and hold until Link nudges the torch. Hold ^ until Link's shadow is in the circle v> of the torch.
 

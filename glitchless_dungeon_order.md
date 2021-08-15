@@ -12,7 +12,7 @@ Get saha rupees (200 total)
 
 Get saha bombs? idk what the bomb route should be
 
-DO NOT SPINSPEED TO THE BOOK!
+NO SPINSPEED
 
 Desert is the same as usual
 
@@ -32,6 +32,8 @@ Do tree rupees & backup tree rupees; you'll be at 360+ rupees
 
 DO NOT HAMMERYUMP
 
+Get to 500 rupees in basement.
+
 You'll be at 250 rupees + any drops after paying kiki. You need 500 rupees for flippers immediately after this, so pick up a lot in basement.
 
 # Swamp
@@ -49,7 +51,7 @@ DO NOT BOMB JUMP
 
 # Thieves' Town
 
-Mirror then run back to the kak portal.
+Run to the left of the other skull and mirror, then run back to the kak portal.
 
 Do Thieves as normal.
 
@@ -61,17 +63,17 @@ Ether, Ice Rod, then Ice Palace.
 
 Ice Palace Route: 
 
-* Instead of IPBJ, walk through.
+* Instead of IPBJ, walk through (1-bomb bombable floor)
 
-After big chest room:
-
-* Go through right door.
-* Follow path, get Ice-T chest.
-* In the tall ice room, go through NE door.
-* Follow the path.
-* On the way back, head west through the spike floor room.
-* Continue back to the room you normally fell in like 2 minutes ago, go north and downstairs and hit the switch.
-* Walk back out, do the full loop around, but leave through the SW door in the tall ice room.
+* After pengators, go up past big spike and fall down
+* Take NE exit to jelly/pit room
+* Follow path
+* After big key, leave U room to the left
+* Dash left past yellow spike
+* In blockpush room, go right to antifairy/ice/pots and get key
+* Leave and go downstairs to hit the switch
+* Go back up to antifairy/ice/pots and follow the path
+* This time, leave the tall ice room SW and beat the dungeon
 
 # Mire
 

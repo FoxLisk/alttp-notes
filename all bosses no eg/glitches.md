@@ -188,3 +188,24 @@ Haven't found a great setup to not accidentally pick up a block or some dumb thi
    1. method b:
      * pick up the bomb and throw it again and then do the ^ and A without wasting a bomb
  1. you should now be at Y-510
+
+
+## Arrghus Deathhole
+
+[See the explanation on the wiki](https://alttp-wiki.net/index.php/Deathhole#Arrghus_Deathhole)
+
+## Ice rod hookpush
+
+Done from the Kakariko shop
+
+ 1. Slot 9 block
+   1. Place a block in the middle of the room
+   1. Sword out, break, dash, block to get a slot 9
+ 1. Buy the bombs
+ 1. Dash block
+ 1. Kiss the right wall
+ 1. Beam twice into the wall
+ 1. Walk down and dash beam
+ 1. Hook from the bottom corner up to the torch
+
+

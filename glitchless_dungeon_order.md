@@ -57,7 +57,7 @@ Do Thieves as normal.
 
 # Ice
 
-Tempered, then C-shaped rupees. If you are <10 rupees, get C-shaped rupees first.
+C-shaped rupees (if <110), Tempered.
 
 Ether, Ice Rod, then Ice Palace.
 

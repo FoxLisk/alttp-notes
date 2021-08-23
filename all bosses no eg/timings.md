@@ -25,3 +25,12 @@ Bridge screen: 415, 412, 413
 Lake: 1704, 1737, 1628 (swimming is hard)
 
 Total: 21s
+
+# Mire big key:
+
+* Saves ~2'20 to skip the chest
+
+* torches ~1600 with torch lighting
+* torches ~1230 with hookpush
+
+Skipping mire BK probably saves ~4 seconds if your hookpushes are fast.

@@ -101,6 +101,11 @@ Now you get rid of the block however and leave the door, i.e. by holding down, t
    1. if you see sweat droplets during the pickup, ???
    1. if not it's propbably still fine?
  1. tap ^ to snap down
+
+Now you can do two things to complete the snap. The new method is described well [on the wiki](https://alttp-wiki.net/index.php/Door_Juke#Technique_with_Somaria:). The old method of select buffering while watching the somaria block move in the air is slower but you have better cues during it.
+
+### Old method:
+
  1. throw the block to the left and pause quickly
    * if the block appears SUPER low on the screen, going left, you're good
    * if not, tap ^, pick up the block, tap ^ to snap down again
@@ -128,6 +133,8 @@ Now you get rid of the block however and leave the door, i.e. by holding down, t
  1. place another bomb
  1. do 2 frames south 
     * use the zazak's animation to time this
+    * or do the sword out method the same as the south somaria above
+      * TODO: can you do the sword out thing before placing the bomb to have more time?
  1. pick up the bomb, tap ^ to snap, throw the bomb, walk down. you'll come down from the top of the screen.
 
 ## West Somaria
@@ -142,8 +149,38 @@ This is like a combination of North and East somarias. You do a setup more like 
  1. walk farther left, grab it, snap
  1. repeat until you're deep in the wall (with the block not in your hands, only your shield is visible)
  1. tap <
- 
+
+## Slot 9 Block
+
+ 1. Place a block.
+  * It needs to be fairly far away from collision in cardinal directions so the beams can stay in the air long enough for us to do the other steps
+ 1. Slash and hold your sword
+ 1. Break the block
+ 1. Kick up dust
+ 1. Place another block
+
+These have to be done fairly quickly. The 2nd block has to be placed while the beams from the first block & the dash dust are all on screen.
+
+Occasionally you'll get a slot 8 block because of, effectively, bad luck.
+
+If your sword spin charges fully in the middle of the process you're almost guaranteed to get a slot 8 block. If this is happening to you, try holding B until charged before doing the break/dust/block sequence.
+
 ## Mire Hookpush
+
+## North Hookpush
+
+These all describe a hookpush that moves you north enough to get past a screen transition; it's used 2x in mire and optionally once to skip Desert torches.
+
+ 1. Lamp 3x as setup
+ 1. Slot 9 block
+ 1. Dash-block
+ 1. Break block and beam up *at something besides a wall* (pot, torch, rail)
+ 1. Hook down from the top right corner inside the fishbone maze, pause when the hook hits the rail.
+
+You can retry the hook-pause thing as much as you want. If you're early you can catch it and switch to select buffers to get it.
+
+Old hookpush (requires boom)
+
   (Starts about 3:10)
 
  1. Lamp 3x as setup
@@ -154,7 +191,7 @@ This is like a combination of North and East somarias. You do a setup more like 
  1. as soon as the fire rod hits the wall, lay a block
  1. you want 2c in slot 9
  1. walk up into the maze, go into the top right corner, and hook down
- 1. kill vitty
+ 1. kill vitty`
 
 ## Somaria-Only Hookpush
 
@@ -194,18 +231,17 @@ Haven't found a great setup to not accidentally pick up a block or some dumb thi
 
 [See the explanation on the wiki](https://alttp-wiki.net/index.php/Deathhole#Arrghus_Deathhole)
 
-## Ice rod hookpush
+## Ice Rod Hookpush
 
 Done from the Kakariko shop
+
+This assumes search index is set. A good time to do this is in Thieves after getting the auto-menu to lamp.
 
  1. Slot 9 block
    1. Place a block in the middle of the room
    1. Sword out, break, dash, block to get a slot 9
  1. Buy the bombs
- 1. Dash block
- 1. Kiss the right wall
- 1. Beam twice into the wall
+ 1. Dash block in sort of the top right quartile of the room
+ 1. Break the block and beam twice to the right
  1. Walk down and dash beam
  1. Hook from the bottom corner up to the torch
-
-

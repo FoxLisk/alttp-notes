@@ -10,10 +10,11 @@ def parse_time(time):
 
 def sum_route(screens):
     seconds, frames = 0, 0
-    for time in screens.values():
+    for room, time in screens.items():
         screen_seconds, screen_frames = parse_time(time)
         seconds += screen_seconds
         frames += screen_frames
+        # print(f"{room}:   {screen_seconds}'{screen_frames}")
 
     seconds += frames // 60
     frames = frames % 60

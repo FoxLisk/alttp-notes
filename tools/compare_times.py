@@ -1,8 +1,4 @@
-from yaml import load, dump
-try:
-    from yaml import CLoader as Loader, CDumper as Dumper
-except ImportError:
-    from yaml import Loader, Dumper
+from ruamel.yaml import YAML
 
 def parse_time(time):
     seconds, frames = time.split("'")
@@ -23,7 +19,8 @@ def sum_route(screens):
 
 if __name__ == '__main__':
     with open('abnoeg_ir_hookpush.yaml') as f:
-        routes = load(f, Loader)
+        yaml = YAML(typ="safe")
+        routes = yaml.load(f)
         for route, screens in routes.items():
             seconds, frames = sum_route(screens)
             print(f"{route}: {seconds}'{frames:02}")

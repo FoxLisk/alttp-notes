@@ -1,0 +1,29 @@
+---
+title: Jingle skipping
+
+routes:
+    Chest key:
+        Torch key: 6'08
+        Mini-helmas: 5'06
+        Chest key: 8'50
+
+    Jingle skip:
+        Torch key: 6'08
+        Mini-helmas: 6'11
+        Chest key: 6'01
+
+    Jingle unskip:
+        Torch key: 6'08
+        
+        Mini-helmas: 6'19
+        Chest key: 6'18
+
+    Torch key jingle skip:
+        Torch key: 8'00
+        Mini-helmas: 5'06
+        Chest key: 6'01
+
+    Torch key with magic:
+        Torch key: 8'00
+        Mini-helmas: 5'06
+        Chest key: 7'46

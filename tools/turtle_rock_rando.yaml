@@ -1,0 +1,41 @@
+---
+title: Turtle rock routing
+
+routes:
+    Left first, mirror out, then right:
+        Lobby SE to SW: 7'29
+        Left room: 6'56 # menu
+        Entrance: 9'22 # menu
+        Lobby SE to NE: 9'25
+        # torches
+        Roller room: 12'48
+        Leaving torches: 3'49
+        Lobby NE to NW: 10'30 # menu
+        
+    Right first, mirror out, then left:
+        Lobby SE to NE: 9'25
+        # torches
+        Roller room mirror: 10'49
+        Entrance: 9'22 # menu
+        Lobby SE to SW: 7'29
+        Left room: 8'25
+        Lobby SW to NW: 11'15 
+
+    Left first, run to right:
+        Lobby SE to SW: 7'29
+        Left room: 8'25
+        Lobby SW to NE: 12'13
+        # torches
+        Roller room: 12'48
+        Leaving torches: 3'49
+        Lobby NE to NW: 10'30 # menu
+
+    Right first, run to left:
+        Lobby SE to NE: 9'25
+        # torches
+        Roller room: 12'48
+        Leaving torches: 3'49
+        Lobby NE to SW: 13'30 # menu
+        Left room: 8'25
+        Lobby SW to NW: 11'15
+

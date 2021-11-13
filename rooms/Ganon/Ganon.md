@@ -20,7 +20,7 @@ Thus, an optimal phase 3 hit saves 98 frames (30 + 65 + a 183 vs a 180 frame war
 
 # Phase 4
 
-[https://www.youtube.com/watch?v=5BQEbIM4dlI](I made a video of this).
+[I made a video of this](https://www.youtube.com/watch?v=5BQEbIM4dlI).
 
 The notes, along with some other materials like nicely-indexed examples of early doubles are available at  [https://tinyurl.com/ganonphase4](https://tinyurl.com/ganonphase4).
 

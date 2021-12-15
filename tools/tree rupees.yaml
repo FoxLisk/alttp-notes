@@ -1,0 +1,40 @@
+---
+title: Tree rupees
+
+#N.B. lost woods 2 is timed to bonking after the dash down through the log
+routes:
+    Arrow bird, 3 blues, bird dash:
+        First tree: 10'36
+        Enter lost woods: 5'29
+        # lw
+        # grove
+        Lost woods 2: 13'26
+
+    Ignore bird, 3 blues, bird dash and crab:
+        First tree: 10'25 # same exit as arrow
+        Enter lost woods: 5'29
+        # lw
+        # grove
+        Lost woods 2: 13'59
+
+
+    Ignore bird, 2 blues, bird dash and crab:
+        First tree: 9'33 # save ~4 frames getting 1 rupee
+        Enter lost woods: 6'27
+        # lw
+        # grove
+        Lost woods 2: 13'59
+
+    Pickle, 2 blues, bird dash:
+        First tree: 10'36
+        Enter lost woods: 4'56
+        # grove
+        Lost woods 2: 13'26
+
+
+        #        First tree: -
+        #        Enter lost woods: -
+        #        # grove
+        #        Lost woods 2: -
+
+

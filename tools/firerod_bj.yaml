@@ -1,0 +1,33 @@
+---
+title: Getting Firerod
+
+routes:
+    No bj, yes star tile, yes bomb:
+        Overworld 1: 9'07
+        Pot jail: 8'45
+        Big chest room: 13'44
+        Overworld 2: 9'52
+
+    No bj, yes star tile, no bomb:
+        Overworld 1: 9'07
+        Pot jail: 7'57
+        Big chest room: 13'44
+        Overworld 2: 9'52
+        
+    No bj, no star tile, yes bomb:
+        Overworld 1: 9'07
+        Pot jail: 7'48
+        Big chest room: 14'53
+        Overworld 2: 9'52
+
+
+    Normal bomb jump: # spin setup
+        Overworld 1: 9'51
+        Big chest room: 14'11
+        Overworld 2: 9'39
+
+    Early bomb jump:
+        Overworld 1: 9'51
+        Big chest room: 13'20
+        Overworld 2: 9'39
+

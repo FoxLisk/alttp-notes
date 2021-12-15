@@ -54,7 +54,7 @@ misslot a hook:
   * dodge trident
   * stand around 1/3 down from the top of the room facing a wall
   * 3 arrows in wall
-  * face torch, hold sword out, 2 bombs OR bomb + hook
+  * face torch, hold sword out, 2 bombs OR bomb + boomerang
   * hook
   * RELEASE SWORD
   * hook again

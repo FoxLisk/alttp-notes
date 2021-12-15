@@ -5,20 +5,21 @@ Tentative route:
 we need a billion bombs from somewhere
 
 1. Get lamp, boomerang
-2. Backtrack and arm s&q
-3. Lonk out
-4. Finish eastern (9+ arrows)
-5. Boots & saha bombs (3b)
-6. DMA to hera
-7. Hera BK
-7. Grab small key
-8. Dark Cross small key (+1/-1 = 3b)
-9. grab beetle bomb and reload hera (4b)
-9. climb up (5b)
-10. get hookshot (+1 -2 = 4b, 3+a)
-11. S&Q (should take you to uncle if you didn't rescue old man)
-12. Ganon pot (3b)
-13. Hookpush (0b 0+a)
+1. Backtrack and arm s&q
+1. Lonk out
+1. Finish eastern (9+ arrows)
+1. Boots & saha bombs (3b)
+1. New DMA
+1. Kiki skip, hammer (2b, +2 in pod for 4b)
+1. S&Q sanc
+1. Hera DMA
+1. Grab small key
+1. climb up (5b)
+1. get hookshot (+1 -2 = 4b, 3+a)
+1. S&Q sanc
+1. River clip
+1. Ganon pot (3b)
+1. Hookpush (0b 0+a)
 
 
 ---

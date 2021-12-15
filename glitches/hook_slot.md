@@ -25,6 +25,8 @@ Ultimately, this version of hookpushing is more a like a translation of an exist
 
 [4:53 PM] Tojso: However, we can use different distances and directions by modifying $39D before throwing the last hook. $39D is also used by the boomerang, depending on the direction you throw it: (8 for N, 9 for NE, 1 for E, 5 for SE, 4 for S, 6 for SW, 2 for W, and A for NW).
 
+![hookshot directions](hookshot_direction.png)
+
 
 ---
 

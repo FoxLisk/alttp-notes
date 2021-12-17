@@ -1,5 +1,51 @@
 hot new meme: any% no EG
 
+# Routes
+
+Glan route:
+
+1. houlihan RTA for 200 rupees
+1. Get a red pot and and bombs
+1. get back to the courtyard\
+   here's how i did it, there might be faster ways:
+   1. go to uncle, arm EG, Lonk
+   1. Clip out to kak
+   1. s&q
+1. Damage off of guards down to 1 heart (1/2 heart is fine)
+1. Quadrant glitch south
+1. Go through south exit
+1. Go through NW exit without moving up higher than the door (nudge nudge nudge)
+1. walk down to Y-E86 and nudge back into the door
+1. YBA east
+1. [Ganonpot thingy](#ganonpot-thingy)
+1. Spinbomb (B-Y like spinspeed), hold right during spin
+1. Hold right until, during his pushing-the-wall animation, link goes back to his standing upright position (this requires select buffering)
+1. Hold up to deathhole
+1. after the deathhole tap down to triforce
+
+[Video of the last several steps courtesy of Glan](https://www.youtube.com/watch?v=dye61mq147w)
+
+Tojso route:
+
+1. start with houlihan RTA to get 200 rupees
+1. clip out to go buy bombs
+1. go to uncle
+   * you can citrus back in
+   * there's a way to do it by talking to the guards and then doing broken camera movement but i don't know it
+1. double juke to thieves, get big key on the way out
+1. get red boom from bombable hut
+   * if you used too many bombs in the juke, you can get C-house money now to buy more bombs
+1. get tavern bottle and buy a red potion
+1. clip to desert rear
+1. after popo genocide, YBA west
+1. transition magic to get to hookshot
+1. S&Q back to uncle, get lamp + at least one small magic
+1. ganonpot
+1. ganon push with red boom, lamp, bombs, and hook (sword not needed)
+
+
+---
+
 Fox & Sirius route:
 
 1. Get lamp, boomerang
@@ -19,28 +65,10 @@ Fox & Sirius route:
 1. Ganon pot (3b)
 1. Hookpush (0b 0+a)
 
----
-
-Tojso route:
-
-1. start with houlihan RTA to get 200 rupees
-1. clip out to go buy bombs
-1. go to uncle
-  * you can citrus back in
-  * there's a way to do it by talking to the guards and then doing broken camera movement but i don't know it
-1. double juke to thieves, get big key on the way out
-1. get red boom from bombable hut
-  * if you used too many bombs in the juke, you can get C-house money now to buy more bombs
-1. get tavern bottle and buy a red potion
-1. clip to desert rear
-1. after popo genocide, YBA west
-1. transition magic to get to hookshot
-1. S&Q back to uncle, get lamp + at least one small magic
-1. ganonpot
-1. ganon push with red boom, lamp, bombs, and hook (sword not needed)
-
 
 ---
+
+# Glitch explanations
 
 Houlihan RTA:
 
@@ -57,7 +85,7 @@ now you can see some of hyrule castle but the screen is broken
 
 1. walk v til you're lined up with the door (you'll hit a wall)
 1. <v you're in the gap left of the door, then v to hop
-  * this hop is the one by the gold guard that we EG out of
+   * this hop is the one by the gold guard that we EG out of
 1. v> until you get stuck in the corner
 1. ^> a tile
 1. ^ until you get stuck
@@ -110,7 +138,7 @@ Tojso hookpush
 1. 2 bombs facing up [direction probably doesn't matter but i didn't test], red boom east
 1. after the red boom starts moving back left, lamp twice and do the 2 hooks v. you want the 2nd hook to happen after a lamp flame is gone.
 1. walk back up, 2 bombs, boom east. 2 flames and hook to activate
-  * if you're down a bomb, 1 bomb and 3 flames works too (make sure you get both magic pots if you were otherwise trying to skip one)
+   * if you're down a bomb, 1 bomb and 3 flames works too (make sure you get both magic pots if you were otherwise trying to skip one)
 
 ---
 
@@ -141,13 +169,13 @@ Ganonpot:
 Hookpush to Triforce:
 
 misslot a hook:
-  * dodge trident
-  * stand around 1/3 down from the top of the room facing a wall
-  * 3 arrows in wall
-  * face torch, hold sword out, 2 bombs OR bomb + boomerang
-  * hook
-  * RELEASE SWORD
-  * hook again
+   * dodge trident
+   * stand around 1/3 down from the top of the room facing a wall
+   * 3 arrows in wall
+   * face torch, hold sword out, 2 bombs OR bomb + boomerang
+   * hook
+   * RELEASE SWORD
+   * hook again
 
 this makes it so that the first hook gets misslotted (it eats a sparkle instead of an arrow), and *the second hook gets slotted correctly* into 0-4. specifically it will replace an arrow and be in slots 2-4.
 
@@ -161,3 +189,14 @@ if all goes well, the 0-4 slots will be filled with [bomb explosion, bomb explos
 
 
 ** is it possible to place the bombs facing up, then turn down, slash, hook, drop slash and re-hook? do we get sparkles in time?
+
+---
+
+## Ganonpot thingy:
+
+1. YBA east with sword held out
+1. <v (sword still out) for 4f (bottom of sword will line up somewhat obviously with bottom of pot)
+1. stand still for a frame or more
+1. <v (sword STILL OUT) for 5f more (1 pixel between bottom of pot and top of sword)\
+   so far this is just the beginning of normal ganonpot.
+1. now we release spin and buffer <^. after the first frame of straight-vertical movement, stop moving. you are now in the final position.

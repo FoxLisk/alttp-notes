@@ -4,6 +4,8 @@ hot new meme: any% no EG
 
 Glan route:
 
+I got it in ~7 min with a pretty bad run, and with better potion routing it can probably go faster still
+
 1. houlihan RTA for 200 rupees
 1. Get a red pot and and bombs
 1. get back to the courtyard\
@@ -25,7 +27,11 @@ Glan route:
 
 [Video of the last several steps courtesy of Glan](https://www.youtube.com/watch?v=dye61mq147w)
 
+---
+
 Tojso route:
+
+Probably caps out in the low 9 minute range
 
 1. start with houlihan RTA to get 200 rupees
 1. clip out to go buy bombs
@@ -47,6 +53,8 @@ Tojso route:
 ---
 
 Fox & Sirius route:
+
+not sure where it caps, probably 15-18 min?
 
 1. Get lamp, boomerang
 1. Backtrack and arm s&q

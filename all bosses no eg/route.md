@@ -1,3 +1,9 @@
+# OBSOLETE
+
+This route was great while it lasted, but it is not the best known current route for runs. The glitch info in here may still be useful, though.
+
+---
+
 AD route thru kiki skip/pod reload
 
 (this means: lonk, OW EG out, do eastern first (FAWT or citrus), DMA to mirror, kiki skip, open the first door and reload the dungeon)

@@ -2,11 +2,8 @@
 ====
 
 1. What and why
-
   1. Hookpushes allow you to move with absolutely no collision detection for potentially long distances, which is useful for e.g. skipping doors that you can't open, or moving around the EG map within the rules of No Logic
-
 1. Two ways to hookpush:
-
   1. Somaria hookpushes
   1. Stuckpushes
 

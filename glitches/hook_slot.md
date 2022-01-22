@@ -21,7 +21,7 @@ I'm a little fuzzy on the technical details at this point. But we have a couple 
 1. A "stuck" hookshot somewhere in slots 0-4 that's ready to pounce. Let's call this $STUCK_SLOT
 1. A value in $039D (the "hookslot") that tells the game what slot to read data from when unleashing the above hookshot. This will start by pointing at the hookshot we just got stuck; i.e. the value at $039D = $STUCK_SLOT
 
-Our next step is going to be [unleashing that hookshot](#unleash_the_stuck_hookshot). If we don't do any further manipulations, what will happen is that we get the direction and duration that the stuck hookshot was supposed to give us. This can be quite useful; for example you can stuckpush easily from Hope Room to Tile Room in GT by getting a hook to the topleft pot stuck and then unleashing it.
+Our next step is going to be [unleashing that hookshot](#unleash-the-stuck-hookshot). If we don't do any further manipulations, what will happen is that we get the direction and duration that the stuck hookshot was supposed to give us. This can be quite useful; for example you can stuckpush easily from Hope Room to Tile Room in GT by getting a hook to the topleft pot stuck and then unleashing it.
 
 You can, however, read different data for the direction/duration instead, which can also be quite useful! Throwing a boomerang sets the slot that we're going to read data from according to the below table; i.e. it sets $039D (the hookslot) to the given value. So if you throw a boomerang west, you set the slot to 2; if you got, say, a sword beam in there, you'd get a very long hookpush.
 
@@ -31,7 +31,7 @@ This is tricky to do in general; or, anyway, I'm not good at it. It runs into so
 
 However, there is one very easy and very useful thing we can use to take advantage of this: bombs go in slots 1 and 0 automatically, set direction & duration, and don't hit walls and despawn. They only set 0x0B for duration, which is 11 frames or 44 pixels of movement, which isn't enough for everything but can be quite useful. They also don't set stopping coordinates, which are something I should document elsewhere.
 
-The way we do this is, once we have a stuck hookpush, we throw a boomerang to the east to set our hookslot to 1. Then we place a bomb facing the direction we would like to push in. Then we [unleash](#unleash_the_stuck_hookshot) while the bomb animation is near its end (watch the "extension" field in the practice hack to get a feel for the timing).
+The way we do this is, once we have a stuck hookpush, we throw a boomerang to the east to set our hookslot to 1. Then we place a bomb facing the direction we would like to push in. Then we [unleash](#unleash-the-stuck-hookshot) while the bomb animation is near its end (watch the "extension" field in the practice hack to get a feel for the timing).
 
 The easiest method (IMO) is:
 

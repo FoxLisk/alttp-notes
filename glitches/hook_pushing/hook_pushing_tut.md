@@ -1,14 +1,19 @@
   1. What and why
+
     1. Hookpushes allow you to move with absolutely no collision detection for potentially long distances, which is useful for e.g. skipping doors that you can't open, or moving around the EG map within the rules of No Logic
 
   1. Two ways to hookpush:
+
     1. Somaria hookpushes
     1. Stuckpushes
 
   1. Prereq: Ancilla
+
     1. Ancilla are stuff link makes, with his items/sword/boots
     1. There are 10 slots for ancilla.
+
       1. The first 5 (0-4) are where most ancilla want to go, starting from 4.
+
         1. Bombs are special and want to go in 1 and 0
       1. The back 5 (5-9) are where sparkles (from sword charges, silver arrows, etc) want to go
     1. Under some circumstances, ancilla that want to go in slots 0-4 can be convinced to go in slots 5-9 instead. This is called "misslotting."

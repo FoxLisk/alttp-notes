@@ -2,7 +2,6 @@
 | ----  | -------- |
 | Arrow | FF if it doesn't hit anything, otherwise runs up to 08 after hitting a wall |
 | Boomerang | 00 while going out, 01 on the return, 04 if it doesnt spawn due to instantly tinking[0] |
-
 | Hookshot | Depends on distance, but not really usable afaik |
 | Bomb | 00 when placed, then during the explosion builds up to 0B |
 | Powder | Builds up to 09 |
@@ -30,10 +29,6 @@
 | Bonk | FF |
 | Item grab | 1D |
 | Fairy revival | 00 in slot 0 (???) |
-
-
-
-
 
 
 [0] Red boom spawns enough sparkles to go into front slots, and they oscillate 00-03

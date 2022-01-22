@@ -1,4 +1,4 @@
-# How to hookslot:
+# How to stuckpush:
 
 ## Get a "stuck hook" in slot 0-4
 
@@ -23,7 +23,7 @@ I'm a little fuzzy on the technical details at this point. But we have a couple 
 
 Our next step is going to be [unleashing that hookshot](#unleash-the-stuck-hookshot). If we don't do any further manipulations, what will happen is that we get the direction and duration that the stuck hookshot was supposed to give us. This can be quite useful; for example you can stuckpush easily from Hope Room to Tile Room in GT by getting a hook to the topleft pot stuck and then unleashing it.
 
-You can, however, read different data for the direction/duration instead, which can also be quite useful! Throwing a boomerang sets the slot that we're going to read data from according to the below table; i.e. it sets $039D (the hookslot) to the given value. So if you throw a boomerang west, you set the slot to 2; if you got, say, a sword beam in there, you'd get a very long hookpush.
+You can, however, read different data for the direction/duration instead, which can also be quite useful! Throwing a boomerang sets the slot that we're going to read data from according to [this table](boomerang_slot.md) i.e. it sets $039D (the hookslot) to the given value. So if you throw a boomerang west, you set the slot to 2; if you got, say, a sword beam in there, you'd get a very long hookpush.
 
 This is tricky to do in general; or, anyway, I'm not good at it. It runs into some constraints: first of all, it's hard to know exactly which slot your stuckshot is in, which can make selecting a slot difficult. I think normally it will go in slot 4 (since that's the highest-slotted arrow it should get replaced) but I have seen it in other slots. Secondly, you need good data in the slot *and* the slot to be filled at the same time; a lot of the use of hookpushing is to go, say, left through a wall, which makes it hard to create an ancilla that has the left direction and lasts long enough to still prevent the next hookshot from spawning.
 
@@ -40,18 +40,6 @@ The easiest method (IMO) is:
 3. when the explosion is midway, lamp 2x and then use hookshot
 
 You can also time the boom throw to fill a slot if you prefer (and if the relevant walls cooperate).
-
-
-| Boom direction | Selected slot |
-| -------------- | ------------- |
-| N              |  8            |
-| NE             |  9            |
-| E              |  1            |
-| SE             |  5            |
-| S              |  4            |
-| SW             |  6            |
-| W              |  2            |
-| NW             |  A            |
 
 ## Unleash the stuck hookshot
 

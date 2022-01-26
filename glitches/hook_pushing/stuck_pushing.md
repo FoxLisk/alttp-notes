@@ -50,6 +50,20 @@ This will push you in the direction and for the duration chosen above.
 
 (all info credit to Tojso, vZakat, and Glan)
 
+
+# More Setups
+
+## Using 0A Hookslot
+
+Throwing the boom NW sets the hookslot to 0A. 0A is a greater slot than we can put ancilla into, but, per Tojso:
+
+    having a bomb in slot 0 constantly sets the extension for slot A to 2 (then is decremented to 1 by the hookshot via pushing), so you basically move until the bomb explodes or you hit a supertile transition.
+    seems like direction of slot A is determined by the layer of the ancilla in slot 0. so pushing with slot 0 on the lower layer will go south, pushing with slot 0 on the upper layer will go north (edited)
+    so, for most purposes, slot A direction will be north
+
+This is pretty easy. Just get a push stuck, then throw the boom NW and unleash it.
+
+
 -----
 
 ## Some discord logs for posterity

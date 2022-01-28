@@ -63,6 +63,42 @@ Throwing the boom NW sets the hookslot to 0A. 0A is a greater slot than we can p
 
 This is pretty easy. Just get a push stuck, then throw the boom NW and unleash it.
 
+# Double-Misslotted Stuckpushes
+
+Disclaimer - I understand this even less than the above. See [Tojso's explanation](#tojso-on-double-misslots).
+
+In brief: If you misslot 2 hookshots in a particular way, you can get the activation effect of the second one easily.
+
+The easiest setup I know requires silver arrows (because it continuously generates sparkles):
+
+- 2 bombs
+- 2 arrows in wall
+- 1 *silver* arrow on screen
+
+[Here is a video of this](double_misslot_silvers.mp4)
+
+Hookshot a hookable object twice quickly. The first one will go in slot 9, and the second one will go in slot 8. If you succeeded, your hookslot will be 9. If you failed, it's usually (IME - YMMV) because the hookshots were too far apart; you can tell this happened when your hookslot is 8 and your stuck push is already touching the object you targeted.
+
+That's the hard part - the benefit is that unleashing the hookpush is much easier. Just use another hookshot and make sure it doesn't "complete" (i.e. hit a hookable object or hit a non-hookable and return to you) too quickly. This will get you the movement from the stuck push.
+
+A tricker setup that uses ice rod instead of silvers:
+
+- 2 arrows in wall
+= Sword out
+- 2 bombs
+- Ice rod
+
+now you have to pause briefly, something to do with get the sparkles to line up, and then hook twice.
+
+[Here is a video of this](double_misslot_icerod.mp4)
+
+N.B. I can misslot hooks in a way that looks like this but fails to work by using red boom for sparkles. Have yet to diagnose why that one fails.
+
+## Stucking the activating push
+
+If the last hook use with a double-misslot hits a hookable object (but still gets you the hookpush; i.e. it doesn't hit until the stuck push has reached its target and is pushing you), it too will get stuck. This can be used like a normal stuckpush; i.e. you can fill slots and unleash it.
+
+
 
 -----
 
@@ -129,3 +165,18 @@ You do need to be a bit careful, though. If your index is 0 before throwing the 
 
 so that seems relevant... my search index understanding is abysmal twinmo1Sad
 [11:26 PM] Glan: Yea the search index only matters when the slots are full
+
+#### Tojso on double misslots
+
+I hadn't really messed with multiple misslotted hooks before, but now that I've seen an easy repeatable setup, I understand how it works. misslotted hooks do not move link at all. movement from misslotted hooks only occurs because a non-misslotted hook exists. from my earlier text wall about stuck hooks:
+
+When a hookshot is thrown or hits a hookable object, the slot of [that] hookshot will be written to $39D. 
+
+
+the push happens solely because of the 2nd misslotted hook. when you throw 2 misslotted hooks, the first hits a hookable object before the 2nd, which stops the 2nd before it hits the hookable object. when you throw a normal hook after that, the other hooks re-activate.
+
+if the normal hook hits a hookable object first or fully retracts first, the push won't happen, and you'd have to start the setup from the beginning again.
+
+however, if the 2nd misslotted hook hits a hookable object first, then $39D is set to the slot of that hook. additionally, because the normal hook exists, the game assumes that the normal hook is responsible for hitting the hookable object, so the push activates and link moves. however, because $39D is equal to the slot of the 2nd hook, the game uses those variables instead of the ones from the normal hook. it's not possible to use variables other than those from the slot of the 2nd misslotted hook here.
+
+if the normal hook would hit a hookable object after this, it gets stuck, allowing another push, one that can be modified using boomerangs.

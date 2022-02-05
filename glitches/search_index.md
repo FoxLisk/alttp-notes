@@ -9,10 +9,14 @@ Summary to come (maybe). Thanks to Glan for info.
 2b) decrement the index.  
 2c) if the ancilla at slot[index] is replaceable, replace it with the new one and exit.  
 2d) If the index is now 0, exit. Otherwise repeat from 2b).  
+
 ...
+
 [11:37 PM] Glan: There are some other special cases here too. Something worth noting is that all ancillae have "quotas", i.e. only so many of them can exist at once. E.g., only one dash dust at once, only 3 lamp flames, etc. There can only be 3 stuck arrows at once, and there's a special case there to force you to be able to keep firing arrows still. It won't stop searching when it goes to 0 and will loop back to 5 (I think?), which is unlike any other ancilla 
 [11:37 PM] Glan: And yea if it doesnt really make sense, it's because it's a horrible way to implement the system 
+
 ...
+
 [11:38 PM] Glan: So the 6 arrow thing done frequently is to set the index to 2 
 [11:39 PM] FoxLisk: oh! 
 [11:39 PM] FoxLisk: setting index high and then firing 6 arrows sets it to 2? 

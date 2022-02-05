@@ -17,10 +17,10 @@ Summary to come (maybe). Thanks to Glan for info.
 
 ...
 
-[11:38 PM] Glan: So the 6 arrow thing done frequently is to set the index to 2 
-[11:39 PM] FoxLisk: oh! 
-[11:39 PM] FoxLisk: setting index high and then firing 6 arrows sets it to 2? 
-[11:39 PM] Glan: Which works by: 
+[11:38 PM] Glan: So the 6 arrow thing done frequently is to set the index to 2  
+[11:39 PM] FoxLisk: oh!  
+[11:39 PM] FoxLisk: setting index high and then firing 6 arrows sets it to 2?  
+[11:39 PM] Glan: Which works by:  
 
 Index is any value greater than 4  
 Arrow in slot 4  

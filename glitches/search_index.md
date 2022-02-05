@@ -3,12 +3,12 @@ Summary to come (maybe). Thanks to Glan for info.
 
 [11:32 PM] Glan: I may not be remembering it exactly right, but I believe this is how making an ancilla works, at least for standard ones and not sparkles.
 
-1) if there is an empty slot in 0-4, create it in the highest available slot. (Special case: bombs start in slot 1)
-2) if there is no empty slot, look at the index: 
-2a) if the index is 0, set it to 5.
-2b) decrement the index.
-2c) if the ancilla at slot[index] is replaceable, replace it with the new one and exit.
-2d) If the index is now 0, exit. Otherwise repeat from 2b).
+1) if there is an empty slot in 0-4, create it in the highest available slot. (Special case: bombs start in slot 1)  
+2) if there is no empty slot, look at the index:   
+2a) if the index is 0, set it to 5.  
+2b) decrement the index.  
+2c) if the ancilla at slot[index] is replaceable, replace it with the new one and exit.  
+2d) If the index is now 0, exit. Otherwise repeat from 2b).  
 ...
 [11:37 PM] Glan: There are some other special cases here too. Something worth noting is that all ancillae have "quotas", i.e. only so many of them can exist at once. E.g., only one dash dust at once, only 3 lamp flames, etc. There can only be 3 stuck arrows at once, and there's a special case there to force you to be able to keep firing arrows still. It won't stop searching when it goes to 0 and will loop back to 5 (I think?), which is unlike any other ancilla
 [11:37 PM] Glan: And yea if it doesnt really make sense, it's because it's a horrible way to implement the system

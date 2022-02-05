@@ -18,17 +18,17 @@ Summary to come (maybe). Thanks to Glan for info.
 [11:39 PM] FoxLisk: setting index high and then firing 6 arrows sets it to 2?
 [11:39 PM] Glan: Which works by:
 
-Index is any value greater than 4
-Arrow in slot 4
-Arrow in slot 3
-Arrow in slot 2
-Arrow replaces slot 4, sets index to 4
-Arrow replaces slot 3, sets index to 3
-Arrow replaces slot 2, sets index to 2
-[11:40 PM] FoxLisk: right, because the index decrements before checking if an ancilla is replaceable
-...
-[11:41 PM] Glan: So I'm not sure off the top of my head what happens if you have an ancilla in 4 and then shoot 6 arrows like this
-[11:41 PM] Glan: I'd guess it goes to 1
-[11:41 PM] Glan: Because theyd be in 3,2,1 instead of 4,3,2
-[11:42 PM] FoxLisk: is $ANCILLA is replaceable a function of $ANCILLA alone or a function of ($EXISTING_ANCILLA, $ANCILLA_THAT_WOULD_LIKE_TO_REPLACE_IT)? 
-
+Index is any value greater than 4  
+Arrow in slot 4  
+Arrow in slot 3  
+Arrow in slot 2  
+Arrow replaces slot 4, sets index to 4  
+Arrow replaces slot 3, sets index to 3  
+Arrow replaces slot 2, sets index to 2  
+[11:40 PM] FoxLisk: right, because the index decrements before checking if an ancilla is replaceable  
+...  
+[11:41 PM] Glan: So I'm not sure off the top of my head what happens if you have an ancilla in 4 and then shoot 6 arrows like this  
+[11:41 PM] Glan: I'd guess it goes to 1  
+[11:41 PM] Glan: Because theyd be in 3,2,1 instead of 4,3,2  
+[11:42 PM] FoxLisk: is $ANCILLA is replaceable a function of $ANCILLA alone or a function of ($EXISTING_ANCILLA, $ANCILLA_THAT_WOULD_LIKE_TO_REPLACE_IT)?   
+  

@@ -6,32 +6,6 @@ Crucially, _neither spin sprite sets the direction value_! This means we can set
 
 In order to get a long duration out of this, we need to start a spin and then interrupt it almost immediately, in whatever slot we've set our desired direction in. In practice this is slot 0, because this stuff only really works with slot 9 block pushes afaict.
 
-Here are some setups for setting high duration values in slot 0.
-
-### Blue Boom/Fire Rod
-
-1. Place a slot 3 block
-2. Place bomb
-3. Slash sword 4 times, holding on the 4th one
-4. Right before sword is charged, throw boom/fire rod
-5. Dash dust
-6. Release spin
-
-This is harder with the fire rod, because the casting animation kills your sword sparkles. You have to delay between the shot and the spin release, and you have to spin before the firerod despawns, and you have to time it all against the bomb. It's manageable but blue boom is much more forgiving.
-
-### Ice Rod
-
-This assumes nothing except the slot 9 block is down (i.e. free front slots)
-
-1. Place bomb
-2. Slash sword 3 times, holding on the 3rd
-3. When the spin is charged, ice rod
-4. After the ice rod projectile has traveled about 2 tiles, release spin
-
-This is a little finicky because of how many sparkles are de- and re-spawning all the time.
-
-This unfortunately doesn't work with red boom - with sword sparkles out, the red boom sparkles go ape shit and fill up all your slots and your spin doesn't reliably go into slot 0. I haven't found a workable red boom setup yet.
-
 # Stopping Coordinates
 
 Be careful - the spin **does** set [stopping coordinates](stopping_coordinates.md). These coordinates are dependent on both Link's coordinates when you spin, and the direction Link is facing. I have included the direction set by `2A` for completeness; it shouldn't matter in real setups, which depend on the `2B` ancilla.
@@ -47,8 +21,38 @@ I'm pretty sure this is the starting coordinate of the little swirly sparkly thi
 
 I think the easiest takeaway here is that with a successful spin setup facing right, your stopping coordinates will be approximately half a tile SW from where you start; so make sure to position yourself not to hookpush past that line.
 
-If you're moving at 4px/f in a direction and you start (2+4n)px off of your stopping coord in that direction, you'll never get stopped in that direction. This is super convenient because this means the Y stopping coordinate is **always good** if you stay on the same Y coord you started on and do a right spin (because `Y+06` is `2 + (4 * 1)` px off of where you stand).
+If you're moving at 4px/f in a direction and you start (2+4n)px off of your stopping coord in that direction, you'll never get stopped in that direction. This is super convenient because this means using a right spin and then hookpushing from that same Y coordinate always gets you past your stopping coord (because `6 = 2 + 4 * 1`).
 
+# Setups
+
+The rest of this document is various setups for getting slots and timing to work out.
+
+
+Here are some setups for setting high duration values in slot 0.
+
+## Blue Boom/Fire Rod
+
+1. Place a slot 3 block
+2. Place bomb
+3. Slash sword 4 times, holding on the 4th one
+4. Right before sword is charged, throw boom/fire rod
+5. Dash dust
+6. Release spin
+
+This is harder with the fire rod, because the casting animation kills your sword sparkles. You have to delay between the shot and the spin release, and you have to spin before the firerod despawns, and you have to time it all against the bomb. It's manageable but blue boom is much more forgiving.
+
+## Ice Rod
+
+This assumes nothing except the slot 9 block is down (i.e. free front slots)
+
+1. Place bomb
+2. Slash sword 3 times, holding on the 3rd
+3. When the spin is charged, ice rod
+4. After the ice rod projectile has traveled about 2 tiles, release spin
+
+This is a little finicky because of how many sparkles are de- and re-spawning all the time.
+
+This unfortunately doesn't work with red boom - with sword sparkles out, the red boom sparkles go ape shit and fill up all your slots and your spin doesn't reliably go into slot 0. I haven't found a workable red boom setup yet.
 
 # Low Item Setups
 
@@ -88,3 +92,38 @@ This setup, unaltered, will get you a long up hookpush (if your block is against
 For a down push, use blue boom or ice rod or kick up dust (if you kick up dust you'll have to do it twice; once for the break and again for the spin). 
 
 For a left push, do two of the above (boom + ice rod, boom + double dust, ice rod + double dust)
+
+## Even lower item stuff
+
+  We can use a slot 0 bomb to set direction and then do a spin to set duration. This allows us to get long hookpushes with nothing but boots, fighter sword, cane, hook, and a high search index. 
+  You can use this to get a long cardinal push in any direction, including east. This might just be more useful than the whole prior section, maybe including that stuff is a mistake. We'll see.
+
+The problem we're up against here is that we are trying to set direction with a slot 0 bomb; but we also need to get hit by a bomb while we have a spin in slot 0. So we need to set distance with a slot 0 bomb, then place another bomb in a different slot, and then place a spin in slot 0 such that we get hit by the second bomb.
+
+We can do this by timing bombs to get a slot 0 bomb:
+
+1. Slot 9 block
+2. Slot 3 block
+3. Slot 1 bomb
+4. As it's exploding, slot 0 bomb
+5. New slot 1 bomb pretty shortly after the slot 0
+6. As the slot 0 bomb is exploding, break the block
+7. After the slot 0 bomb goes away, spin and get hit by the slot 1 block.
+
+
+We can also use somaria beams to get a slot 0 bomb:
+
+1. slot 9 block
+2. slot 3 block
+3. Break block, place bomb (in slot 0)
+4. After a brief pause, place another bomb (in slot 1)
+   * I use 4 slashes for timing here but it's not perfect
+5. Place another slot 3 block
+6. As the slot 0 bomb is finishing its explosion, break the block
+7. After the slot 0 bomb is gone, release spin and get hit.
+
+You could, instead, wait for the slot 0 bomb to disappear before breaking the block, and then spin after the up beam disappears. This requires more careful positioning of the block and does not seem, to me, to make the timing any easier.
+
+And, for fun, here is a setup using a misslotted bomb.
+
+[Here is a setup with a misslotted bomb](bomb_misslot_east.mp4).

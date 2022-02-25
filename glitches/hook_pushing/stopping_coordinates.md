@@ -16,3 +16,56 @@ Anyway. The main points here are:
 TODO: 
 
 I haven't finished looking into this, but it seems like the stopping coordinate given in the practice hack hud extras for "X Coord" is actually somewhat offset from the effective stopping coord. Unclear how exactly this affects things. Same probably true of Y Coord.
+
+# Directionality
+
+Because Link is not a point mass, the actual place link gets stopped is based on an offset from the stopping coords.
+
+This is mostly exactly what you'd expect: Link stops at the point where his body hits the thing, like he does when you're hooking a pot. It's a little less obvious when putting these together in game, though.
+
+## Left
+
+Link will stop no farther left than 0x3 pixels to the right of the stopping coord
+
+## Up
+
+Link will stop no higher than 0x7 pixels below the stopping coord
+
+## Right
+
+Link will stop no farther right than 0xB pixels to the left of the stopping coord
+
+
+## Down
+
+Link will stop no lower than 0xF pixels above the stopping coord
+
+
+# Stopping Coord Offsets
+
+Here are how some items set stopping coordinates.
+
+## Sword Beams
+
+Sword beams travel at 4 px/f and start on Link, so generally they set stopping coordinates of whatever they hit, on the grid centered at where you shot them.
+
+Where they actually set Link to stop isn't necessarily visually exactly where you'd expect, but it's pretty close.
+
+## Fire Rod
+
+Same as sword beams, but goes 4px farther in whatever direction you shoot it.
+
+## Bombs
+
+| Link facing | Stopping X | Stopping Y |
+| ----------- | ---------- | ---------- | 
+| Left        | X - 0x06   | Y + 0x0C   |
+| Up          | X + 0x08   | Y + 0x04   |
+| Right       | X + 0x16   | Y + 0x0C   |
+| Down        | X + 0x08   | Y + 0x18   |
+
+so to the left and right you can get full distance by staying "on-grid" with the bomb, if for some reason you can't get otherwise good stopping coords
+
+## Arrows
+
+Arrows unfortunately move at 3px/f which makes this kind of a mess. Fortunately, [arrow velocity](arrows.md) is so weird that you need to make totally different assumptions than just "am I on grid?" so this doesn't seem to matter a lot? Maybe I'll find a reason to think it matters later.

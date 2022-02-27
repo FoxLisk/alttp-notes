@@ -1,117 +1,96 @@
-eastern: 
-  Uncle
-  Lonk -> ow eg -> kak swim -> bottle -> eastern mapwrap (citrus by the shed, transition down, transition west after walking down)
+# eastern:
 
-Basement Clip:
-  boots + bombs + rupees
-  Clip to witch, buy green pot (need 60 rupees total)
-  Run to west of sanc, do DMA, get mirror
-  Kiki yeet -> cave state pod
-  get big key, hammer (hover is fast but impossible), basement clip to unlock door
-  s&q
+1. Uncle
+1. Lonk -> ow eg
+1. kak swim -> bottle -> eastern mapwrap (citrus by the shed, transition down, transition west after walking down)
 
-Escape: 
-  river clip (https://www.youtube.com/watch?v=CdgquUvxe-w)
-  rescue zelda (you have cave state big key!), s&q, mirror, deliver her
-s&q dm
+# Pod 1 (Basement Clip)
 
-hera:
+1. boots + bombs + rupees
+1. Clip to witch, buy green pot (need 60 rupees total)
+1. Run to west of sanc, do DMA, get mirror
+1. Kiki yeet -> cave state pod
+1. get big key, hammer (hover is fast but impossible)
+   1. If you have less than 6 arrows, you must collect pots up to 6
+1. [basement clip](/glitches/clip/basement_clip.md) to unlock door
+   * Collect rupees until you have 210 in basement
+1. s&q after opening door
 
-  1. basement cage key
-  1. mearl
-  1. h2s
-  1. [Fake clippers](fake-clippers)
-  1. leave and DMD
 
-NOTE: you could also finish hera and then have more health (+ a refill) for Thieves'
+# Escape:
 
-Thieves:
-  dmd, etc
+1. river clip (https://www.youtube.com/watch?v=CdgquUvxe-w)
+1. rescue zelda (you have cave state big key!), s&q, mirror, deliver her
+!. s&q old man
 
-SW:
-  rupees, frogdor, tempered, rupees, SW
+# Hera 1 (Pearl, Hook)
 
-Hera:
+1. basement cage key
+1. mearl
+1. h2s
+1. [Fake clippers](/glitches/fake_clippers.md) for hook
+1. Mirror out
 
-  s&q dm, hera clip, herapot, fuck the worm up good
 
-Mire:
+# Thieves
 
-  get ether
-  dmd to mire [1]
-  mire is normal except for spooky
+1. DMD
+1. Do thieves
 
-Desert:
+# Skull Woods
 
-  Walk to the left and mirror into desert (so you can mirror out after big key)
-  (i dont know if this is right)
+1. If you didn't get enough rupees in PoD, get brewery. You need at least 210.
+1. Get frog & book
+1. Temper your sword
+1. C-house rupees
+1. Finish as in NMG
 
-TR:
+# Hera 2
 
-  Ice rod wrap [2]
-  s&q dm
-  TR mirror wrap, beat it
+1. S&Q old man
+1. Hera clip
+1. Herapot
 
-Swamp:
+# Mire
+
+1. Ether
+1. [DMD to Mire](/glitches/clip/mire_dmd.md)
+1. mire is normal except for spooky
+
+# Desert
+
+1. Just mirror and go to the back, you have big key
+
+# PoD
+
+1. [Ice rod wrap](#ice-rod-wrap)
+1. s&q dm
+1. Kiki skip -> beat pod (can do second basement clip or just grab the small key in the arena and do it normally)
+
+# TR
+
+1. s&q dm
+1. TR mirror wrap, beat it
+
+# Swamp
   
-  Mirror to lw
-  DMD [3]
-  Flippers
-  s&q links, go do swamp
+1. Mirror to lw
+1. Lui hop to flippers
+1. s&q links, go do swamp
 
-Ice:
+# Ice
 
-  Mirror wrap, do ice
+1. Mirror wrap, do ice
+
+# win
 
 GT, AT, Ganon, GG
 
 
-## Fake Clippers
+## Ice Rod Wrap
 
-The fast setup is: after you hop in the water, switch to <^ at a coordinate between
-
-Y-71 and Y-??
-
-once you get lodged in the rail, tap v to snap up and tap > to snap left
-
-then hold <v with 1f of < to swim left
-
-Once the back of Link's hat is past the rail, switch to v. this will align you with the ladder. then swim ^ into the platform, then v will hop you out of the water and ^ will let you walk back onto dry land
-
-You can do some of this faster by not aligning so carefully but then it's tricky and can fuck you
-
-
-[1]
-
-from ether:
-
-  1. run to the bottom of the mountain
-  1. wrap screen, dw with broken camera
-  1. run down (this is all like going to GT in old AD route so far)
-  1. run to the left. at the last `\_` curve, hookdash again and cut through.
-  1. hold <^ to line up high, walk < til you can't anymore, then wiggle <v until link is ~1 body width from the side of the screen (x ~= 614)
-  1. walk down, quickhop. you get a huge multi-screen fall
-  1. walk down & quickhop again
-  1. transition left
-  1. walk <^ to get a dash lane and dash through the transition
-  1. dash left, qh up when you get a chance, dash left again
-  1. dash ^ when you're to the left of the 2x2 swamp lotus
-    1. this will wrap you north twice. immediately after the second wrap, cancel dash
-  1. walk > until you're at the _ part of the \_
-    1. this also lines you up sort of halfway into the vertical row of small flowers in the swamp
-  1. dash up until the thing that would bonk you. this is the thing inside the platform with the ether tablet
-  1. walk around it and ether
-  1. enjoy fabulous lightning bolt
-
-[2]
-
-  1. On the farthest-left slope near the flute 6 spot, sword out and dash buffer in left until you hop
-  1. hop left, transition left
-  1. after transition, tap ^
-  1. then hop left
-  1. then be very careful not to move right until you get the ice rod
-
-
-[3]
-
-there is a new (Lui-found) zora DMD, but i don't understand it yet.
+1. On the farthest-left slope near the flute 6 spot, sword out and dash buffer in left until you hop
+1. hop left, transition left
+1. after transition, tap ^
+1. then hop left
+1. then be very careful not to move right until you get the ice rod

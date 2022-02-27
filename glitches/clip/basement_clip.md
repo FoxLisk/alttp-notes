@@ -8,7 +8,10 @@ This clip can be thought of in three steps:
 
 ## With a potion
 
-1. Get all the way into the spiral staircase, either by having an antifairy hit you or bomb snapping
+1. Get all the way into the spiral staircase
+   1. You can get hit by an antifairy if there's one around
+   2. You can bomb snap
+   3. You can just walk to the pixel
 2. YBA (i.e. press press ^+Y on the same frame. Make sure you are actually missing some of the resource the potion refills.)
 
 ## With Somaria

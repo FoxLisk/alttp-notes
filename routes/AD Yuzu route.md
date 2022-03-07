@@ -65,7 +65,9 @@
 
 1. [Ice rod wrap](#ice-rod-wrap)
 1. s&q dm
-1. Kiki skip -> beat pod (can do second basement clip or just grab the small key in the arena and do it normally)
+1. Kiki skip 
+1. fix fake dark world!
+1. beat pod (can do second basement clip or just grab the small key in the arena and do it normally)
 
 # TR
 

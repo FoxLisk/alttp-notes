@@ -12,7 +12,8 @@ This clip can be thought of in three steps:
    1. You can get hit by an antifairy if there's one around
    2. You can bomb snap
    3. You can just walk to the pixel
-2. YBA (i.e. press press ^+Y on the same frame. Make sure you are actually missing some of the resource the potion refills.)
+2. Spindash
+3. YBA (i.e. press press ^+Y on the same frame. Make sure you are actually missing some of the resource the potion refills.)
 
 ## With Somaria
 

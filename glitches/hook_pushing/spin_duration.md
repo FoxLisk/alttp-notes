@@ -23,6 +23,10 @@ I think the easiest takeaway here is that with a successful spin setup facing ri
 
 If you're moving at 4px/f in a direction and you start (2+4n)px off of your stopping coord in that direction, you'll never get stopped in that direction. This is super convenient because this means using a right spin and then hookpushing from that same Y coordinate always gets you past your stopping coord (because `6 = 2 + 4 * 1`).
 
+# Timing notes
+
+If you release a spin on the first frame a bomb changes colour, you will end up with `0x16` duration. Since it's counting down by 3 per frame, that means there are 17 frames after it that get you higher durations (and about 8 after that give you lower nonzero durations). 
+
 # Setups
 
 The rest of this document is various setups for getting slots and timing to work out.
@@ -108,7 +112,7 @@ We can do this by timing bombs to get a slot 0 bomb:
 4. As it's exploding, slot 0 bomb
 5. New slot 1 bomb pretty shortly after the slot 0
 6. As the slot 0 bomb is exploding, break the block
-7. After the slot 0 bomb goes away, spin and get hit by the slot 1 block.
+7. After the slot 0 bomb goes away, spin and get hit by the slot 1 bomb.
 
 
 We can also use somaria beams to get a slot 0 bomb:
@@ -124,6 +128,6 @@ We can also use somaria beams to get a slot 0 bomb:
 
 You could, instead, wait for the slot 0 bomb to disappear before breaking the block, and then spin after the up beam disappears. This requires more careful positioning of the block and does not seem, to me, to make the timing any easier.
 
-And, for fun, here is a setup using a misslotted bomb.
 
-[Here is a setup with a misslotted bomb](bomb_misslot_east.mp4).
+
+And, for fun, [here is a setup with a misslotted bomb](bomb_misslot_east.mp4).

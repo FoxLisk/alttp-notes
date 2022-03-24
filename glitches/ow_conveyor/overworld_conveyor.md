@@ -91,8 +91,21 @@ This is a lot more lenient than the upward setup.
 
 From Tojso. [Much more here](https://discord.com/channels/307860211333595146/741638618090569738/956387095851708417):
 
-    I started messing with a forgotten application of misslotting: OW Conveyor. it revolves around the address $3F3. when this is 0x00, no additional movement is applied to Link. when it is nonzero, a constant movement is applied Link. 0x01 for normal north conveyor, 0x02 for south, 0x03 for west, 0x04 for east. 
+    I started messing with a forgotten application of misslotting: OW Conveyor.
+    it revolves around the address $3F3. when this is 0x00, no additional
+    movement is applied to Link. when it is nonzero, a constant movement
+    is applied Link. 0x01 for normal north conveyor, 0x02 for south, 0x03 for
+    west, 0x04 for east. 
 
-    to get a nonzero $3F3 with misslotting, you simply need to take damage while holding a slot 9 ancilla (somaria block or bomb). this starts a 0x01 on the first frame of damage, then increments to 0x02 15 frames later, then 10 frames later you regain control of link, then 13 frames later it goes back to 0x00. if we can interrupt this count up to 0x02, then we keep the conveyor state beyond the 37 frames that it lasts.
+    to get a nonzero $3F3 with misslotting, you simply need to take damage
+    while holding a slot 9 ancilla (somaria block or bomb). this starts a
+    0x01 on the first frame of damage, then increments to 0x02 15 frames later,
+    then 10 frames later you regain control of link, then 13 frames later
+    it goes back to 0x00. if we can interrupt this count up to 0x02,
+    then we keep the conveyor state beyond the 37 frames that it lasts.
 
-    while you are holding an ancilla, if you take damage you then drop said ancilla. this causes the address $3EA,x to update (this means $3EA is for slot 0, then you just add x to that to get the address for slot x. for slot 9, this would be $3F3). I think it helps with the bounces that the ancilla does as it drops to the ground. however, this only applies to taking damage while holding it, not while throwing it.
+    while you are holding an ancilla, if you take damage you then drop said
+    ancilla. this causes the address $3EA,x to update (this means $3EA is for
+    slot 0, then you just add x to that to get the address for slot x. for
+    slot 9, this would be $3F3). however, this only applies to taking damage
+    while holding it, not while throwing it.

@@ -29,8 +29,10 @@ How to read these notes:
     all inputs are 1 frames unless otherwise specified: 
 
     >2 means "2 frames right" 
+    v>{1-2} means "1 or 2 frames right"
     <h means "press left, hold it as long as you want" 
     a^ means "dashturn up" 
+    
 
 `^ >2 v` - if you only move 1 frame right, you can go v and then v> to get all the way in  
 `^> v ^> v`  
@@ -42,18 +44,26 @@ For most of these steps if you miss a diagonal you can just tap v to get back in
 
 # Rail Clip
 
+## Moving down
+
+We repeat a sequence several times that moves link down 1 pixel at the end. We do this to move Link a total of 4 pixels down. But first we have to get into the rail and end superspeed.
+
 ```
 <h - first we have to get into the rail with superspeed still active  
 a  - then we cancel it  
-   <v > av v> (1)  
-<h <v > av v> (2)  
-<h <v > av v> (3)  
-<h <v > av v> (4) - Link should now be on Y-5E  
+   <v > av v>{1-2} (1)
+<h <v > av v>{1-2} (2)  
+<h <v > av v>{1-2} (3)  
+<h <v > av v>{1-2} (4) - Link should now be on Y-5E  
 ```
-`>`  
-slash and hold sword  
+
+If you get a 2 frame movement on any of the `>`s here, you can slash your sword and move backwards
+
+If you moved 2 frames `v>` on the last step, make sure to walk `<`. You can always walk `<` for safety if you wish.
+
+`>` slash and hold sword  
 `<h` - make sure Link is backed up all the way  
-`<v2` - this can be done as a single 2f movement or 2 separate 1f movements  
+`<v{1-2}`  
 release sword now  
 `a^`  
 

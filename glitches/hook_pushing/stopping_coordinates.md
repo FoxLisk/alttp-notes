@@ -13,10 +13,6 @@ Anyway. The main points here are:
 2. If you set your stopping coordinate and then move (2+4n) px away from it, you won't get stopped; i.e. if you are on the grid, use a 4px/f ancilla (such as beams) to set up your hookpush, and then move 2px off the grid, you will fly past your stopping coordinate.
 
 
-TODO: 
-
-I haven't finished looking into this, but it seems like the stopping coordinate given in the practice hack hud extras for "X Coord" is actually somewhat offset from the effective stopping coord. Unclear how exactly this affects things. Same probably true of Y Coord.
-
 # Directionality
 
 Because Link is not a point mass, the actual place link gets stopped is based on an offset from the stopping coords.

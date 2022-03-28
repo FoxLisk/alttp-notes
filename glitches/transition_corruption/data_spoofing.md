@@ -11,7 +11,7 @@ Transitioning between supertiles is one of those times. Supposing you transition
 3. The room data for B is read from SRAM into active RAM
 4. Room B is loaded (and you move into it)
 
-When you do an STC, only the first 2 effects occur, which allows us to hang out in supertile A with our room ID set to that of supertile B. Then, when we transition (or s&q), our current active data will be written to the SRAM for supertile B. 
+[We can cause only the first 2 effects to occur](#how-to), which allows us to hang out in supertile A with our room ID set to that of supertile B. Then, when we transition (or s&q), our current active data will be written to the SRAM for supertile B. 
 
 We can use this to our advantage for both purposes; that is to say, interacting with room A while having room B's ID set can be useful; and writing room state from A to room B can separately be useful. 
 
@@ -35,7 +35,7 @@ For simplicity, assume we start in supertile A and data spoof B, and that A and 
 
 This has done two things for us: we got the contents of a chest in room B without having to go there, and also we opened a chest in room B without having to go there.
 
-Opening chests in the wrong room isn't really useful, but opening *doors* in the wrong room can be. For example, if you bomb the exit in laser bridge and then spoof data northward and mirror out, you will end up writing the "door open" data from laser bridge down to the "room above laser bridge" room ID, thus unlocking the door without a key.
+Opening chests in the wrong room isn't really useful, but opening *doors* in the wrong room can be. For example, if you bomb the exit in laser bridge and then spoof data northward and mirror out, you will end up writing the "door open" data from laser bridge to the "room above laser bridge" room ID, thus unlocking the door without a key.
 
 As kan puts it:
 
@@ -54,7 +54,7 @@ I don't know what's going on with west STCs yet.
 
 ## YBA
 
-Supertile YBAs also cause data spoofing. Subtile YBAs don't.
+Supertile YBAs cause data spoofing. Subtile YBAs don't.
 
 # Further reading
 

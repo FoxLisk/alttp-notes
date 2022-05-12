@@ -11,7 +11,7 @@ This trick is done in the dark world with a wrapped screen. It will make more se
 1. dash left, qh up when you get a chance, dash left again
 1. dash ^ when you're to the left of the 2x2 swamp lotus
    1. this will wrap you north twice. immediately after the second wrap, cancel dash
-1. walk > until you're at the _ part of the \_
+1. walk > until you're at the `_` part of the `\_`
    1. this also lines you up sort of halfway into the vertical row of small flowers in the swamp
 1. dash up until the thing that would bonk you. this is the thing inside the platform with the ether tablet
 1. walk around it and ether

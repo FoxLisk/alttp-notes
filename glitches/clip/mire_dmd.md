@@ -1,6 +1,6 @@
 This is the superjump DMD to mire
 
-This trick is done in the dark world with a wrapped screen. It will make more sense if you watch a clip of it.
+This trick is done in the dark world with a wrapped screen. It will make more sense if you [watch a clip of it](https://clips.twitch.tv/TransparentCoyTurnipM4xHeh-X5YkLIerOWIXJhkR).
 
 1. run to the bottom left of the mountain. at the last `\_` curve, hookspeed/spindash and clip through the intersection.
 1. hold <^ to line up high, walk < til you can't anymore, then wiggle <v until link is ~1 body width from the side of the screen (x ~= 614)

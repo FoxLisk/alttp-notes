@@ -1,4 +1,6 @@
 Summary to come (maybe). Thanks to Glan for info.
+
+Search index is initialized to 0 on console reset.
 ====
 
 [11:32 PM] Glan: I may not be remembering it exactly right, but I believe this is how making an ancilla works, at least for standard ones and not sparkles.

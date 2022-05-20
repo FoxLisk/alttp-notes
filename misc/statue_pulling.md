@@ -1,4 +1,6 @@
-If you're 2px away from a statue and hit A, you will enter the "grabbing a statue" animation, but if you pull away from the statue you'll let go of it and start moving instead.
+If you are touching a statue you can grab and pull it
+If you are 1 pixel away from it while facing right or down, you will also grab and pull it
 
+If you are 1 pixel away from it while facing up or left, or 2 pixels away while facing right or down, you will enter the "grabbing a statue" animation but not be able to pull it
 
-I only tested this from the top and left actually
+All of these positions (where pressing A would put you in a grabbing animation) are sufficient to arm statue drag.

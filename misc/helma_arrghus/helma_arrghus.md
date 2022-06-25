@@ -87,6 +87,6 @@ Technical info:
 
 ## Arrghus:
 
-[See the images in here](..) for examples taking helma left leg into account
+[See the images in here](.) for examples taking helma left leg into account
 
 ![00](arrghus_odd_00.png)

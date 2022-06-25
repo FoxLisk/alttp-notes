@@ -1,6 +1,6 @@
 ## Note
 
-This is all taken from [https://github.com/helgefmi](pinkus)'s work. I am rehosting here to make it easier to read. [https://pastebin.com/vD6JLmVJ](Original source here).
+This is all taken from [pinkus](https://github.com/helgefmi)'s work. I am rehosting here to make it easier to read. [Original source here](https://pastebin.com/vD6JLmVJ).
 
 ---
 
@@ -9,7 +9,7 @@ Short version:
 
 This method _can_ detect a splice somewhere bewteen killing Helmasaur and entering Arrghus.
 
-Basically, look at bottom left leg of Helmasaur right after he's killed (pngs for all 9 patterns are [here](..)). If it ends up being 00.png, 02.png, 04.png, 06.png or 08.png, Arrgi pattern should be similar to arrghus_even.png. And 01, 03, 05 and 07 should yield something similar to arrghus_odd.png.
+Basically, look at bottom left leg of Helmasaur right after he's killed (pngs for all 9 patterns are [here](.)). If it ends up being 00.png, 02.png, 04.png, 06.png or 08.png, Arrgi pattern should be similar to arrghus_even.png. And 01, 03, 05 and 07 should yield something similar to arrghus_odd.png.
 
 Then it can be used to a much more precise degree by looking at top left leg too. This will shift the puffs a few pixels, and so it's a little bit tedious to see (and would need like 16 pngs for the different Arrgi patterns). It can be used if anyone has a valid concern against a run, though.
 
@@ -59,7 +59,7 @@ Technical info:
 
 ## Arrghus:
 
-[See the images in here](..) for examples taking helma left leg into account
+[See the images in here](.) for examples taking helma left leg into account
 
 ![00](arrghus_even_00.png)
 

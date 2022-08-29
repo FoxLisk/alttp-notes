@@ -21,7 +21,7 @@ I'm a little fuzzy on the technical details at this point. But we have a couple 
 1. A "stuck" hookshot somewhere in slots 0-4 that's ready to pounce. Let's call this $STUCK_SLOT
 1. A value in $039D (the "hookslot") that tells the game what slot to read data from when unleashing the above hookshot. This will start by pointing at the hookshot we just got stuck; i.e. the value at $039D = $STUCK_SLOT
 
-Our next step is going to be [unleashing that hookshot](#unleash-the-stuck-hookshot). If we don't do any further manipulations, what will happen is that we get the direction and duration that the stuck hookshot was supposed to give us. This can be quite useful; for example you can stuckpush easily from Hope Room to Tile Room in GT by getting a hook to the topleft pot stuck and then unleashing it.
+Our next step is going to be [unleashing that hookshot](#unleash-the-stuck-hookshot). If we don't do any further manipulations, what will happen is that we get the direction and duration that the stuck hookshot was supposed to give us. This can be quite useful; for example you can stuckpush easily from Hope Room to Tile Room in GT by getting a hook to the topright pot stuck and then unleashing it.
 
 You can, however, read different data for the direction/duration instead, which can also be quite useful! Throwing a boomerang sets the slot that we're going to read data from according to [this table](boomerang_slot.md) i.e. it sets $039D (the hookslot) to the given value. So if you throw a boomerang west, you set the slot to 2; if you got, say, a sword beam in there, you'd get a very long hookpush.
 

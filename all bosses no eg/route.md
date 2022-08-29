@@ -152,7 +152,7 @@ If you're skipping the hookpush, get tempered as normal and head to SW.
     * the first frame that the platform totally covers the bloack line before the -| joint is 901, the frame after that is when to release
   * north somaria the top right door
   * walk down out of the door, then back into the door
-    * the screen will go nots
+    * the screen will go nuts
   * hold v
   * dash left to enter the agah 2 fight
   * kill agah 2

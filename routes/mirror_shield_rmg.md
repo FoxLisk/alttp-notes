@@ -2,6 +2,7 @@ Mirror shield RMG
 
 * Lonk/oweg
 * leave west
+   * apparently there's a way to do this on top slope but i can't figure it out.
 * citrus dma
 * go into hera
 * get bomb

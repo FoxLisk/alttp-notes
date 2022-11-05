@@ -16,7 +16,7 @@ You can hold v through the transition. There is no timing consideration.
 
 # What is it good for?
 
-There are three known applications. There are also mp4s [in this directory][.] if you prefer those.
+There are three known applications. There are also mp4s [in this directory](.) if you prefer those.
 
 ## Spectacle Rock -> Eastern
 

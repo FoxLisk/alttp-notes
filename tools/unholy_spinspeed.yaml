@@ -1,0 +1,16 @@
+---
+title: Unholy Spinspeed
+
+#N.B. lost woods 2 is timed to bonking after the dash down through the log
+routes:
+    Spinspeed (hold):
+        Elbow: 3'12
+        Library: 6'37
+
+    Spinspeed (slash):
+        Elbow: 2'54
+        Library: 7'06
+
+    No spinspeed:
+        Elbow: 2'54
+        Library: 7'09

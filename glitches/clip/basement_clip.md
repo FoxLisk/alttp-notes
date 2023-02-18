@@ -13,7 +13,7 @@ This clip can be thought of in three steps:
    2. You can bomb snap
    3. You can just walk to the pixel
 2. Spindash
-3. YBA (i.e. press press ^+Y on the same frame. Make sure you are actually missing some of the resource the potion refills.)
+3. "YBA" (i.e. press press ^+Y on the same frame. Make sure you are actually missing some of the resource the potion refills. It's not an actual YBA)
 
 ## With Somaria
 

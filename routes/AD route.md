@@ -23,7 +23,7 @@ This is the "Lui route" - an Eastern-first route that [Lui got WR with](https://
    1. big key
    1. mearl
    1. h2s
-   1. [fake clippers](../glitches/fake_clipers.md#second-flooded-room) to hookshot 
+   1. [fake clippers](../glitches/fake_clippers.md#second-flooded-room) to hookshot 
    1. leave and DMD
 
 # Thieves

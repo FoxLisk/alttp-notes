@@ -1,10 +1,7 @@
-WR progression:
+# WR Progression
 
 Light world timed at agahnim door close
 
-  28:50
-1:23:03
-54:13
 | Player | Time      | Light World | Blue Balls | Dark World |
 | ------ | ----      | ----------- | ---------- | ---------- |
 | Eddy   | 1:22:49   | 27:12       | 1          | 54:04      |
@@ -30,9 +27,6 @@ Light world timed at agahnim door close
 Runs at this point become a pretty big mess. See [The wiki](https://alttp-wiki.net/index.php/Record_Progression) for the history. I don't particularly feel like tracking down all the runs for the split history period.
 
 
-\* This is the first record with spooky
-\*\* Menu to mirror occurs during Agahnim's Tower on this and all older Xelna runs I looked at
-\*\*\* First 28 light world in a WR
-
-
-need to fix xelna's runs which i did the math on wrong
+\* This is the first record with spooky  
+\*\* Menu to mirror occurs during Agahnim's Tower on this and all older Xelna runs I looked at  
+\*\*\* First 28 light world in a WR  

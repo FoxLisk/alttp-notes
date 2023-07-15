@@ -25,3 +25,7 @@ You can see in this picture that the bomb hitbox extends too far left to be safe
 I personally aim to line Link's feet up with the bottom of the orange pegs and then don't worry if I'm up or down a couple pixels.
 
 Once the switch is hit you can start holding down to fall in the hole ASAP.
+
+# Backup
+
+If the bomb throw goes wrong (or something else bad happens), you can walk down to the rail and place the bomb facing right. This gives you a 5 pixel window to stand on to be outside of the bomb explosion but still low enough to walk off the pegs into the hole. [Here is a video of this](bombable_floor_backup.mp4).

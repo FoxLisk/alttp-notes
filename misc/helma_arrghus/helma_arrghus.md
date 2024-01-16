@@ -7,14 +7,11 @@ This is all taken from [pinkus](https://github.com/helgefmi)'s work. I am rehost
 
 Short version:
 
-This method _can_ detect a splice somewhere bewteen killing Helmasaur and entering Arrghus.
+This method _can_ detect a splice somewhere between killing Helmasaur and entering Arrghus.
 
 Basically, look at bottom left leg of Helmasaur right after he's killed (pngs for all 9 patterns are [here](.)). If it ends up being 00.png, 02.png, 04.png, 06.png or 08.png, Arrgi pattern should be similar to arrghus_even.png. And 01, 03, 05 and 07 should yield something similar to arrghus_odd.png.
 
-Then it can be used to a much more precise degree by looking at top left leg too. This will shift the puffs a few pixels, and so it's a little bit tedious to see (and would need like 16 pngs for the different Arrgi patterns). It can be used if anyone has a valid concern against a run, though.
-
-And so it's mentioned - if it matches up, it does not prove a run was not spliced. You can easily get the same values in two different runs, especially if you're only using bottom left leg which has two values (odd or even, with a bias for even). And the splice(s) could be before Helma/after Arrghus.
-
+There used to be info here about using Helmasaur's top-left leg to check precise positions of arrghus's puffs. It is my current belief that that information was incorrect, and it has been removed.
 
 Technical info:
 
@@ -27,8 +24,6 @@ Technical info:
 - 0B08 is top left leg, 0B09 is bottom left leg. Value of 0 means they are at the top, 8 means they are at the bottom.
 
 - If Helma is standing still when he's killed, they will either be 0 or 8. If he's moving when he gets killed, you can get other values between 0 and 8 too.
-
-- For 0B08 (top left leg), a difference between 0 and 8 is miniscule, but it's there. It's a valid proof for splice, though could be hard to use it on bad quality vods since we're talking about a shift of 1-2 pixels on _some_ puffs.
 
 - For 0B09 (bottom left leg), the only thing that matters is if the number is even or odd. If it's an odd number, puffs will be 180 degrees rotated vs if it's an even number, so this is a big change and noticable even on bad quality vods. So if someone kills helmasaur while he's standing still (meaning 0B09 is even, since its either 0 or 8) you will get vastly different Arrgi patterns from what would be possible if you kill him while he's moving. But it needs more work if you want to do it the other way, because the value could be 2, 4 or 6 in which case you get the same result as if he's standing still.
 
@@ -59,9 +54,7 @@ Technical info:
 
 ## Arrghus:
 
-[See the images in here](.) for examples taking helma left leg into account
-
-![00](arrghus_even_00.png)
+![00](arrghus_even.png)
 
 
 # Odd patterns
@@ -87,6 +80,4 @@ Technical info:
 
 ## Arrghus:
 
-[See the images in here](.) for examples taking helma left leg into account
-
-![00](arrghus_odd_00.png)
+![00](arrghus_odd.png)

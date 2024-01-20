@@ -13,20 +13,7 @@ NOTE: If you do something wrong with a bomb, make sure you let it fully finish e
 
 ## Statue Drag
 
- 1. go touch the statue in the 2nd room and mirror
-    * this puts you in a state where if you hit A you will grab a nonexistent statue. This overrides picking up bombs, in particular
- 1. place a bomb high in the door. Chex's setup is to walk to the left a step so when you get to the door you'll nudge into it, thus knowing for sure you're as high up as you wanna be
- 1. walk into the door, face down, grab the statue and drag it up
-   * when the bomb hits you, it should snap you to Y-910
- 1. face left, place a bomb, slash twice for timing, face down, grab the statue, and pull up again
-   * when _this_ bomb hits you, it should snap you to Y-900
- 1. walk down. if the camera is broken, you've succeeded. if not, mirror and retry.
- 1. walk into the big door, face up, drag the statue down. once the pots are fully on screen you can let go of the statue and just walk down.
-   * at this point, you're in some weird state but collision is PoD-2, with the centerpiece and the bomb pots.
- 1. What you wanna do from here is pick up the right bomb, walk into the right enclosure, grab the heart from the bottom-right pot, then walk up and hit the switch. 
- 1. make sure the camera is high enough (Chex uses a cue with the top left item indicator) you'll then dash down through the door, which will put you in what LOOKS like the right wing of PoD-1, but is actually still PoD-2; walk down a step, walk right to hit the switch again, dash down again, and you enter helma's room
- 1. in helma's room, walk left into a spike, then hold <^ to get around the spikes. then walk down and kill the spiky boi.
-
+[This has its own page now](/glitches/transition_corruption_statue.drag.md)
 
 ## Overworld Conveyor
  

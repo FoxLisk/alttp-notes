@@ -13,7 +13,7 @@ NOTE: If you do something wrong with a bomb, make sure you let it fully finish e
 
 ## Statue Drag
 
-[This has its own page now](/glitches/transition_corruption_statue.drag.md)
+[This has its own page now](/glitches/transition_corruption/statue_drag.md)
 
 ## Overworld Conveyor
  

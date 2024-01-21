@@ -10,7 +10,7 @@ You really gotta do this
 
 In the statue drag state, when you press A you will grab a nonexistent statue. If you grab the nonexistent statue and then let go of A, you'll lose the state, so we go to some pains to get hit instead of letting go of the statue. Remember not to try to dash!
 
-Actually arming it depends on whether or not you have mirror.
+The process for arming it depends on whether or not you have mirror.
 
 ### With Mirror
 
@@ -19,8 +19,9 @@ Touch the pushable statue in the 2nd room and mirror
 ### Without Mirror
 
 1. In PoD-2, pull the statue up into the transition
-1. Hold A through the transition and back up a step. The range is very forgiving - almost a full tie; approximately Y-2F to Y-22.
+1. Hold `A` through the transition and back up a step. The range is very forgiving - almost a full tile; approximately Y-2F to Y-22.
 1. When the antifairy hits you, start holding ^ to immediately transition
+    * If you're the kind of pervert who plays Enemizer, remember that you are not guaranteed to be able to use this method
 1. Hold `<v` until you are clear of the statue
     * Facing a statue from grabbing distance (1-2px) will disarm statue grab
     * Holding the diagonal is, IMO, the easiest method to avoid disarming statue grab here, but you can do other things, like sword-out movements.
@@ -35,7 +36,8 @@ Touch the pushable statue in the 2nd room and mirror
 1. Face left, place a bomb, slash twice for timing, face down, grab the statue, and pull up again
     * When _this_ bomb hits you, it should snap you to Y-900
     * This is likely to require some minor corrections to your timing to account for exactly how far down you walked. This takes practice.
-1. Walk down. if the camera is broken, you've succeeded. If not, mirror and retry.
+1. Walk down. If the camera is broken, you've succeeded. If not, mirror and retry.
+    * If you don't have the mirror I think you just have to S&Q and come back later.
 1. Walk into the big door, face up, drag the statue down. once the pots are fully on screen you can let go of the statue and just walk down.
    * at this point, you're in some weird state but collision is PoD-2, with the centerpiece and the bomb pots.
 1. What you wanna do from here is pick up the right pot, walk into the right enclosure, grab the heart from the bottom-right pot, then walk up and hit the switch. 

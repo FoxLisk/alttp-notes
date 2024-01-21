@@ -8,13 +8,13 @@ You really gotta do this
 
 ## Arm Statue Drag
 
-This depends on whether or not you have mirror.
+In the statue drag state, when you press A you will grab a nonexistent statue. If you grab the nonexistent statue and then let go of A, you'll lose the state, so we go to some pains to get hit instead of letting go of the statue. Remember not to try to dash!
+
+Actually arming it depends on whether or not you have mirror.
 
 ### With Mirror
 
-1. Touch the statue in the 2nd room and mirror
-    * This puts you in a state where if you hit A you will grab a nonexistent statue. 
-        * Note: this overrides picking up bombs
+Touch the pushable statue in the 2nd room and mirror
 
 ### Without Mirror
 
@@ -26,7 +26,7 @@ This depends on whether or not you have mirror.
     * Holding the diagonal is, IMO, the easiest method to avoid disarming statue grab here, but you can do other things, like sword-out movements.
 1. At this point, you have to do something to correct the transition - exiting and re-entering PoD is guaranteed to fix it. I'm not sure on the specifics of this, sadly.
 
-### Juke To Helmasaur King
+## Juke To Helmasaur King
 
 1. Place a bomb high in the door. I do this by walking slightly left before placing the bomb. This gives me several frames where I'm as high as possible while nudging into the door during which I can place the bomb.
 1. Walk into the door, face down, grab the statue and drag it up

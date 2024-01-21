@@ -6,11 +6,28 @@ This is a way to get to Helmasaur King without traversing basically any of the d
 
 You really gotta do this
 
-## With Mirror
+## Arm Statue Drag
+
+This depends on whether or not you have mirror.
+
+### With Mirror
 
 1. Touch the statue in the 2nd room and mirror
     * This puts you in a state where if you hit A you will grab a nonexistent statue. 
         * Note: this overrides picking up bombs
+
+### Without Mirror
+
+1. In PoD-2, pull the statue up into the transition
+1. Hold A through the transition and back up a step. The range is very forgiving - almost a full tie; approximately Y-2F to Y-22.
+1. When the antifairy hits you, start holding ^ to immediately transition
+1. Hold `<v` until you are clear of the statue
+    * Facing a statue from grabbing distance (1-2px) will disarm statue grab
+    * Holding the diagonal is, IMO, the easiest method to avoid disarming statue grab here, but you can do other things, like sword-out movements.
+1. At this point, you have to do something to correct the transition - exiting and re-entering PoD is guaranteed to fix it. I'm not sure on the specifics of this, sadly.
+
+### Juke To Helmasaur King
+
 1. Place a bomb high in the door. I do this by walking slightly left before placing the bomb. This gives me several frames where I'm as high as possible while nudging into the door during which I can place the bomb.
 1. Walk into the door, face down, grab the statue and drag it up
     * When the bomb hits you, it should snap you to Y-910
@@ -26,16 +43,6 @@ You really gotta do this
 1. Dash down through the door. This will put you in what LOOKS like the right wing of PoD-1, but is actually still PoD-2; walk down a step, walk right to hit the switch again, dash down again, and you enter helma's room
 1. In helma's room, walk left into a spike, then hold <^ to get around the spikes. then walk down and kill the spiky boi.
 
-## Without Mirror
+[See a video of the full mirror setup here](./mirrorful_statue_drag.mp4)
 
-Without the mirror, we have to arm the statue drag state differently.
-
-1. In PoD-2, pull the statue up into the transition
-1. Hold A through the transition and back up a step. The range is very forgiving - almost a full tie; approximately Y-2F to Y-22.
-1. When the antifairy hits you, start holding ^ to immediately transition
-1. Hold `<v` until you are clear of the statue
-    * Facing a statue from grabbing distance (1-2px) will disarm statue grab
-    * Holding the diagonal is, IMO, the easiest method to avoid disarming statue grab here, but you can do other things, like sword-out movements.
-1. At this point, you have to do something to correct the transition - exiting and re-entering PoD is guaranteed to fix it. I'm not sure on the specifics of this, sadly.
-1. Once re-entering pod, the rest of the setup is the same.
-
+[See a video of the full mirrorless setup here](./mirrorless_statue_drag.mp4)

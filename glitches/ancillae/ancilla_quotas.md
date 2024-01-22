@@ -19,9 +19,9 @@ Thanks to kan for compiling this table, which I am merely reproducing.
 | $0E | Unused   |-|
 | $0F | Unused   |-|
 | $10 | Unused |-|
-| $11 | Ice shot wall |hit|
+| $11 | Ice shot wall hit|-|
 | $12 | Unused   |-|
-| $13 | Ice shot |sparkle|
+| $13 | Ice shot sparkle| -|
 | $14 | Unused   |-|
 | $15 | Splash   |1|
 | $16 | Stars   |1|
@@ -45,13 +45,13 @@ Thanks to kan for compiling this table, which I am merely reproducing.
 | $28 | Fairy pond toss   |5|
 | $29 | Falling item get   |5|
 | $2A | Spin sparkle   |1|
-| $2B | Spin |sparkle |-|
+| $2B | Spin sparkle |-|
 | $2C | Somaria block   |1*|
 | $2D | Somaria block dying|-|
 | $2E | Somaria block exploding|-|
 | $2F | Lamp flame   |3|
 | $30 | Byrna charge up   |1|
-| $31 | Byrna |spark |-|
+| $31 | Byrna spark |-|
 | $32 | Blast wall explosion   |-*|
 | $33 | Blast wall explosion   |2^|
 | $34 | Skull Woods fire |-|

@@ -63,7 +63,7 @@ The replacement process looks basically this:
 1. If we run out of slots to check, we don't spawn the ancilla at all.
 1. At the end of this process, the search index is the slot of the replaced ancilla, or 0 if nothing was found to replace.
 
-The way we pick a slot is related to what we call the **search index**. If the search index is already set, we just use it; otherwise it gets set to the ancilla's quota + 1.
+The way we pick a slot to start with is related to what we call the **search index**. If the search index is already set, we decrement it and use that value; otherwise we use the value of the ancilla's quota.
 
 ### NOTE
 

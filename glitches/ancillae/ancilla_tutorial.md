@@ -63,7 +63,7 @@ The replacement process looks basically this:
 1. If we run out of slots to check, we don't spawn the ancilla at all.
 1. At the end of this process, the search index is the slot of the replaced ancilla, or 0 if nothing was found to replace.
 
-The way we pick a slot to start with is related to what we call the **search index**. If the search index is already set, we decrement it and use that value; otherwise we use the value of the ancilla's quota.
+The way we pick a slot to start with is related to what we call the **search index**. If the search index is already set, we decrement it and use that value; otherwise we use the value of the ancilla's quota - 1.
 
 ### NOTE
 
@@ -92,9 +92,9 @@ When we try to jump into the water with this setup, the game tries to spawn a sp
 1. Is there an open slot available?
     * No, try to do a replacement
 1. Is the search index 0?
-    * Yes. The splash's quota is 1, so we set the search index to 2
+    * Yes, so we set it to the value of the splash's quota - 1. The splash has a quota of 1, so the search index is reset to 0.
 1. Is there a replaceable ancilla in a slot lower than the search index?
-    * No; slots 0 and 1 have bombs in them, which are not replaceable.
+    * No; slot 0 has a bomb in it, which is not replaceable.
 
 So we give up and don't spawn the splash, and are able to swim without flippers.
 

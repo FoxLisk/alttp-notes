@@ -8,7 +8,9 @@ If you're a particular kind of person, you might also find [the code](https://gi
 
 There is a variable that we call the **search index**.
 
-When an ancilla is looking for another ancilla that it can replace, it first decrements the search index, and then if the search index is negative, it is set to the spawning ancilla's quota. Then the slot indicated by the search index is checked. If it contains a replaceable ancilla, the spawning ancilla spawns in at this slot, replacing the replaceable ancilla, and we're done. If the search index is `0`, we're also done. Otherwise, we continue this process, starting with the decrement.
+When an ancilla is looking for another ancilla that it can replace, it first decrements the search index, and then if the search index is negative, it is set to the spawning ancilla's quota - 1 (i.e. if you can have 2 of something, it will set the search index to slot 1).
+
+Then the slot indicated by the search index is checked. If it contains a replaceable ancilla, the spawning ancilla spawns in at this slot, replacing the replaceable ancilla, and we're done. If the search index is `0`, we're also done. Otherwise, we continue this process, starting with the decrement.
 
 ## Pseudocode
 
@@ -16,7 +18,7 @@ When an ancilla is looking for another ancilla that it can replace, it first dec
 while True:
     search_index = search_index - 1
     if search_index < 0:
-        search_index = ancilla.quota
+        search_index = ancilla.quota - 1
 
     if ANCILLAE[search_index] is replaceable:
         spawn ancilla at search_index

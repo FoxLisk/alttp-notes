@@ -79,7 +79,7 @@ The **replaceable ancillae** are:
 
 Here's the gist of how ancilla replacement works:
 
-1. If the search index is zero, set it to this ancilla's quota + 1
+1. If the search index is zero, set it to this ancilla's quota
 1. Find the highest slot less than the search index that contains a replaceable ancilla
     * If you find one, replace that slot with the new ancilla
 1. Give up when you run out of slots to check

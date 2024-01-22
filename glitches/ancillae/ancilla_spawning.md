@@ -68,6 +68,10 @@ Most ancillae try to spawn in slot 4, and if they're unable to, they look at the
 
 Bombs (and debris from bombing open certain doors[1]) behave the same but instead of starting at slot 4, they start at slot 1.
 
+### NOTE
+
+This means that bombs will **not** go in slots 2, 3, or 4 in normal circumstances.
+
 ## Check for replaceable ancilla
 
 If an ancilla cannot find an _empty_ slot to spawn in, it starts looking for a slot that has a _replaceable_ ancilla. 

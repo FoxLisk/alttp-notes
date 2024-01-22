@@ -32,7 +32,7 @@ When you do something that generates an ancilla, the process for spawning it goe
 
 1. If we already have enough of this kind of ancilla (i.e. we try to throw a second boom), do nothing
 1. Look for an open ancilla slot, starting from slot 4; spawn into one if found
-    1. Bombs start looking at slot 1
+    1. Bombs start looking at slot 1, and *will not* look at slots 2, 3, or 4
     1. Sparkles start looking at slot 9
 1. Look for a replaceable ancilla, and spawn into its slot if we find one.
 
@@ -48,7 +48,7 @@ If you were to start fresh and first lay a somaria block, that would go in slot 
 
 ---
 
-Some ancillae behave slightly differently. If you lay bombs, they want to go into slot 1. So if you start fresh and lay a bomb, it goes into slot 1, and the next bomb will go into slot 2.
+Some ancillae behave slightly differently. If you lay bombs, they want to go into slot 1. So if you start fresh and lay a bomb, it goes into slot 1, and the next bomb will go into slot 0.
 
 Some things generate sparkles. These sparkles want to go into slot 9. If you hold your sword out, you'll see it generate a series of sparkles starting in slot 9. These sword sparkles die out at a rate that causes them to generally fill slots 9, 8, and 7. If you throw a red boomerang, you'll see up to 6 sparkles spawn, filling slots 9, 8, 7, 6, 5 and 3 (the boomerang itself goes in slot 4).
 

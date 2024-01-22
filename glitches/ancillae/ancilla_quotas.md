@@ -1,3 +1,5 @@
+Thanks to kan for compiling this table, which I am merely reproducing.
+
 | ID  | Ancilla | Quota |
 | --- | ------- | ----- |
 | $00 | Nothing   |-|
@@ -68,3 +70,8 @@
 | $41 | Waterfall splash   |1|
 | $42 | Upgrade rupees   |10|
 | $43 | Ganon's Tower cutscene   |1†|
+
+\* Unique initialization routine  
+\*\* Varies depending on routine caller  
+† Limited to 1 by a different search routine of the first 5 slots
+^ The blast wall is hardcoded to always be in the first 2 slots

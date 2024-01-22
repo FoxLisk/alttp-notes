@@ -79,7 +79,7 @@ I'm going to explain this so that you actually understand what's going on, and y
 
 How can we get this to happen? Let's load up the `Ice Palace -> Zora's Domain` preset and go to the prachack menu `Game State -> Remove Sprites` to get everything out of our way.
 
-First up, let's make sure our search index is 0. an easy way to do this is to place a bomb on land, and then walk to deep water and spam bombs (you may want to give yourself extra bombs).
+First up, let's make sure our search index is 0. Yours may already be (you should be able to see the sentry for this). If it's not, an easy way to set it to 0 is to place a bomb on land, and then walk to deep water and spam bombs (you may need to give yourself extra bombs).
 
 Next we'll need all 5 slots filled. The classic way to do this is with 2 bombs and 3 arrows, which will lead to these slots:
 
@@ -171,4 +171,4 @@ This time we're going to hold our sword out, and then place 2 bombs and shoot 3 
 
 # Outro
 
-There's a staggering number of ways to combine items to cause various misslots or stop items from spawning. We only talked about a couple examples here, but hopefully this is enough information to understand other setups
+There's a staggering number of ways to combine items to cause various misslots or stop items from spawning. We only talked about a couple examples here, but hopefully this is enough information to understand other setups and maybe start thinking about your own!

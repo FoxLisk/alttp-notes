@@ -68,4 +68,4 @@ The things that break a stored Fake Item state are:
 * Underworld/overworld transitions
 * Falling in a pit
 
-And probably others.
+And probably others, this list is not intended to be exhaustive.

@@ -29,12 +29,12 @@ Frame  2: Increment search index
 Frame  3: Increment search index
 Frame  4:
 Frame  5: Set search index to 0
-Frame  6: Increment
-Frame  7: Increment
-Frame  8: Increment
-Frame  9: Increment
-Frame 10: Increment
-Frame 11: Increment
+Frame  6: Increment search index
+Frame  7: Increment search index
+Frame  8: Increment search index
+Frame  9: Increment search index
+Frame 10: Increment search index
+Frame 11: Increment search index
 ```
 
 Thus ending up with a value of 6, regardless of facing direction. It's worth noting here that you can interrupt this animation with a S&Q or, in the case of fake powder, a screen transition, to end up on values other than 6.
@@ -47,4 +47,4 @@ Any fairy revival, including from a deathhole, sets the search index to 6.
 
 Since Powder sets the search index, fake powder can be very useful. Since you can move during fake powder, you can find setups to activate fake powder next to a screen transition and have the transition stop the powder animation at a point with a high index set.
 
-See [/glitches/fake_items.md](Fake Items) for more info, including ledgepog setups.
+See [Fake Items](/glitches/fake_items.md) for more info, including ledgepog setups.

@@ -1,6 +1,8 @@
 # Three Ways of Looking At Ancilla Replacement
 
-If you're a particular kind of person, you might find [the code](https://github.com/spannerisms/jpdasm/blob/master/bank_1C.asm#L14033) interesting.
+I just wrote up the ancilla replacement algorithm 3 different ways, in the hopes that they might help different people.
+
+If you're a particular kind of person, you might also find [the code](https://github.com/spannerisms/jpdasm/blob/master/bank_1C.asm#L14033) interesting.
 
 ## Prose
 

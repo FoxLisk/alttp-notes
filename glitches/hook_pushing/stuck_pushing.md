@@ -29,7 +29,7 @@ This is tricky to do in general; or, anyway, I'm not good at it. It runs into so
 
 ### Using Bombs
 
-However, there is one very easy and very useful thing we can use to take advantage of this: bombs go in slots 1 and 0 automatically, set direction & duration, and don't hit walls and despawn. They only set 0x0B for duration, which is 11 frames or 44 pixels of movement, which isn't enough for everything but can be quite useful. They also don't set stopping coordinates, which are something I should document elsewhere.
+However, there is one very easy and very useful thing we can use to take advantage of this: bombs go in slots 1 and 0 automatically, set direction & duration, and don't hit walls and despawn. They only set 0x0B for duration, which is 11 frames or 44 pixels of movement, which isn't enough for everything but can be quite useful.
 
 The way we do this is, once we have a stuck hookpush, we throw a boomerang to the east to set our hookslot to 1. Then we place a bomb facing the direction we would like to push in. Then we [unleash](#unleash-the-stuck-hookshot) while the bomb animation is near its end (watch the "extension" field in the practice hack to get a feel for the timing).
 

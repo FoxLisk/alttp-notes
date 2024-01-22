@@ -32,8 +32,8 @@
 | Fairy revival   | 00 in slot 0 (???) |
 
 
-[0] Red boom spawns enough sparkles to go into front slots, and they oscillate 00-03
-[1] I don't know how to put this in slot 0
-[2] Does nothing in underworld (TODO: it probably doesn't do anything in dark world or when inactive, either)
-[3] The net is not and does not spawn an ancilla (?!)
+[0] Red boom spawns enough sparkles to go into front slots, and they oscillate 00-03  
+[1] I don't know how to put this in slot 0  
+[2] Does nothing in underworld (TODO: it probably doesn't do anything in dark world or when inactive, either)  
+[3] The net is not and does not spawn an ancilla (?!)  
 [4] When you slash with beams, the beam spawns first and thus occupies the higher slot

@@ -5,7 +5,7 @@ Thanks to kan for compiling this table, which I am merely reproducing.
 | $00 | Nothing   |-|
 | $01 | Somaria missile| - |
 | $02 | Fire rod shot   |2|
-| $03 | Unused   |—|
+| $03 | Unused   |-|
 | $04 | Beam wall hit| - |
 | $05 | Boomerang   |1|
 | $06 | Wall hit   |2|
@@ -22,7 +22,7 @@ Thanks to kan for compiling this table, which I am merely reproducing.
 | $11 | Ice shot wall |hit|
 | $12 | Unused   |-|
 | $13 | Ice shot |sparkle|
-| $14 | Unused   |—|
+| $14 | Unused   |-|
 | $15 | Splash   |1|
 | $16 | Stars   |1|
 | $17 | Dirt   |1|
@@ -39,7 +39,7 @@ Thanks to kan for compiling this table, which I am merely reproducing.
 | $22 | Item get   |5|
 | $23 | Poof   |5|
 | $24 | Overworld gravestone   |5|
-| $25 | Unused   |—|
+| $25 | Unused   |-|
 | $26 | Sword swing sparkle| - |
 | $27 | Duck   |5|
 | $28 | Fairy pond toss   |5|

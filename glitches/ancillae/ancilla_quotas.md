@@ -73,5 +73,5 @@ Thanks to kan for compiling this table, which I am merely reproducing.
 
 \* Unique initialization routine  
 \*\* Varies depending on routine caller  
-† Limited to 1 by a different search routine of the first 5 slots
-^ The blast wall is hardcoded to always be in the first 2 slots
+† Limited to 1 by a different search routine of the first 5 slots  
+^ The blast wall is hardcoded to always be in the first 2 slots  

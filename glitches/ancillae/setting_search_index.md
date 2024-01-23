@@ -26,15 +26,22 @@ Powder behaves as follows. Starting from the frame that the chime plays (which i
 ```
 Frame  1: Set the search index based on the direction Link is facing, to the same value as the lamp would.
 Frame  2: Increment search index
-Frame  3: Increment search index
-Frame  4:
-Frame  5: Set search index to 0
-Frame  6: Increment search index
-Frame  7: Increment search index
+Frame  3:
+Frame  4: Increment search index
+Frame  5:
+Frame  6: Set search index to 0
+Frame  7:
 Frame  8: Increment search index
-Frame  9: Increment search index
+Frame  9:
 Frame 10: Increment search index
-Frame 11: Increment search index
+Frame 11:
+Frame 12: Increment search index
+Frame 13:
+Frame 14: Increment search index
+Frame 15:
+Frame 16: Increment search index
+Frame 17:
+Frame 18: Increment search index
 ```
 
 Thus ending up with a value of 6, regardless of facing direction. It's worth noting here that you can interrupt this animation with a S&Q or, in the case of fake powder, a screen transition, to end up on values other than 6.

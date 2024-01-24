@@ -90,11 +90,11 @@ The last debris update is after the last index increment.
 
 This process continues while the game is paused.
 
-**NOTE**: Since you can get extremely high search indices with this, it is possible to do ACE and other misslotting of questionable legality. I don't know exactly how high of an index is safe. `$10` is obviously safe (lamp sets it and that never causes trouble). If you're attempting to use this index I would recommend trying to stop by around `$10`.
+**NOTE**: Since you can get extremely high search indices with this, it is possible to do ACE and other misslotting of questionable legality. I don't know exactly how high of an index is safe. `$10` is obviously safe (lamp sets it and that never causes trouble). If you're attempting to use this to set index I would recommend trying to stop by around `$10`.
 
 ### Slot 4 Bombable Wall Debris
 
-This sets the search index from 7, then counts down to 0 repeatedly, and ends on 7 again.
+This sets the search index to 7, then counts down to 0 repeatedly, and ends on 7 again.
 
 In particular, the timer that is being used to govern the 8-frame loop described above is affecting the search index directly with slot 4 debris. This loop normally occurs 4 times, but specifically it occurs until `$7E03C6` is set to `$04`; I don't know exactly what else affects that value at present.
 

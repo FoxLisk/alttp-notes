@@ -44,8 +44,8 @@
 
 ## dark world potion shop
   * red (150)
-  f* ighter (50)
-  10*  bombs (50)
+  * fighter (50)
+  * 10 bombs (50)
 
 ## dark world voo (east-ish, behind hammer pegs)
   * red (150)

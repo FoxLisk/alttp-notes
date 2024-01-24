@@ -92,7 +92,7 @@ Here's the gist of how ancilla replacement works:
     * If you find one, replace that slot with the new ancilla
 1. Give up when you run out of slots to check
 
-The search index will end up with the value that points at the slot that was replaced, or zero if a replaceable ancilla was not found.
+The search index will end up with the value that points at the slot that was replaced[2], or zero if a replaceable ancilla was not found.
 
 If you want the hairy details, [I wrote them up here](ancilla_replacement.md)
 
@@ -102,7 +102,7 @@ This process will not fill any empty slots that it encounters! It requires the p
 
 # Manipulating the Search Index
 
-You'll note that the first check done when trying to fill a slot for an ancilla that wants to spawn is to check if the search index is zero. This means that if we can set it to a nonzero number, we can control what slot ancillae spawn in, or restrict their search space to avoid them spawning.
+You'll note that the first check done when trying to fill a slot for an ancilla that wants to spawn is to check if the search index is zero. This means that if we can set it to a nonzero number, we can control what slot ancillae spawn in, or restrict their search space to prevent them from spawning.
 
 There are two main ways to manipulate the search index: setting it outright, and causing ancilla replacements on purpose to adjust it.
 
@@ -118,3 +118,5 @@ Causing ancilla replacements can be understood by carefully reading the above in
 [0] Silvers, red boom, and sword all generate `$3C` sparkles. Ice rod generates `$13` sparkles. They behave the same for our purposes.
 
 [1] The debris thing is included only for completeness; it's basically irrelevant. The only usage of it that I'm aware of is for very-out-of-bounds memory manipulation in Delete Ganon.
+
+[2] Note that some items in some slots set the search index directly, so while at the end of the replacement process, the search index will be set to the resultant slot, it may be changed again immediately. See the [search index setting page](setting_search_index.md) for details.

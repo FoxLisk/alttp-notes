@@ -31,7 +31,7 @@ But I find 3 lines quite noisy if I don't need them.
 When you do something that generates an ancilla, the process for spawning it goes like this:
 
 1. If we already have enough of this kind of ancilla (i.e. we try to throw a second boom), do nothing
-1. Look for an open ancilla slot, starting from slot 4; spawn into one if found
+1. Look for an open ancilla slot, starting from slot 4 and going down; spawn into one if found
     1. Bombs start looking at slot 1, and *will not* look at slots 2, 3, or 4
     1. Sparkles start looking at slot 9
 1. Look for a replaceable ancilla, and spawn into its slot if we find one.
@@ -58,8 +58,8 @@ If there's no empty slots, the ancilla that's trying to spawn begins a **replace
 
 The replacement process looks basically this:
 
-1. First, we pick a slot to start looking at
-1. Then, we look at that slot. If it's a replaceable ancilla, we replace it. Otherwise we move down a slot and try again
+1. First, we pick a slot to start looking at.
+1. Then, we look at that slot. If it's a replaceable ancilla, we replace it. Otherwise we move down a slot and try again.
 1. If we run out of slots to check, we don't spawn the ancilla at all.
 1. At the end of this process, the search index is the slot of the replaced ancilla, or 0 if nothing was found to replace.
 
@@ -93,7 +93,7 @@ When we try to jump into the water with this setup, the game tries to spawn a sp
     * No, try to do a replacement
 1. Is the search index 0?
     * Yes, so we set it to the value of the splash's quota - 1. The splash has a quota of 1, so the search index is reset to 0.
-1. Is there a replaceable ancilla in a slot lower than the search index?
+1. Is there a replaceable ancilla in the slot the search index points to, or any lower slot?
     * No; slot 0 has a bomb in it, which is not replaceable.
 
 So we give up and don't spawn the splash, and are able to swim without flippers.
@@ -106,22 +106,22 @@ We can easily test this by spamming lamp and repeating the setup - spamming lamp
 
 ## Example: Repeated arrow firing
 
-Many people, when they do the 2 bombs + 3 arrows fake flipper setup and it fails, get confused and end up hearing the following foolproof steps:
+It is common for people to use the 2 bombs + 3 arrows fake flipper setup and have it fail and not understand why. They then ask around and end up hearing the following foolproof steps:
 
 1. Spam lamp
 1. Fire six arrows into the wall
 1. Place 2 bombs
 1. Now the splashless setup will succeed
 
-Why does this work? Well let's go through it.
+Why does this work? Let's work through it.
 
 First, spamming lamp sets our search index high. (We'll get to the details in a moment, but it always sets it to be >5).
 
-Then we fire six arrows into the wall. Note that arrows behave somewhat differently than other ancillae when trying to do a replacement, although the search index behaviour is pretty similar. So what happens here?
+Then we fire six arrows into the wall. Note that arrows behave somewhat differently than other ancillae: when their quota (3 arrows) is met, they do a replacement, instead of not spawning at all.
 
 1. The first three arrows get fired as normal, filling slots 4, 3, and 2.
-1. The fourth arrow wants to do a replacement. This is because when you try to shoot your bow and there's already 3 arrows already present, it tries to do a replacement rather than either giving up or picking an empty slot (arrows are weird)
-    1. Because the search index is >5, the first replaceable ancilla it finds is the arrow in slot 4
+1. The fourth arrow sees 3 existing arrows and wants to do a replacement.
+    1. Because the search index is >4, the first replaceable ancilla it finds is the arrow in slot 4
         1. It replaces this arrow and leaves the search index set to 4
 1. The fifth arrow wants to do a replacement
     1. Because the search index is 4, the first replaceable ancilla it finds is in slot 3.
@@ -138,7 +138,7 @@ We just went over how to exploit the ancilla spawning process by _preventing_ an
 
 Let's look at some ways to spawn a slot 9 Somaria block, which is one of the most powerful uses of this tech (although I'm not covering applications - [some of that is written up in the hookpushing section, though](/glitches/hook_pushing).)
 
-We already have the knowledge required to do this! If we have full front slots, a high search index (anything >5 counts, although in practice we usually want >9), and a replaceable ancilla, we can spawn an ancilla into a back slot.
+We already have the knowledge required to do this! If we have full front slots, a high search index (anything >5 counts, although in these examples we want >9), and a replaceable ancilla, we can spawn an ancilla into a back slot.
 
 How do we set a high index? The easiest way is by spamming lamp while facing a direction other than right - [more details here](setting_search_index.md#lamp).
 

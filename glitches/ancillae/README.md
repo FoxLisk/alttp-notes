@@ -22,7 +22,7 @@ See [the ancilla spawning codex](ancilla_spawning.md) for the gory details. Be w
 
 ---
 
-[0] Mostly - fairy revives don't really spawn an ancilla normally but are treated like ancillae otherwise.
+[0] Mostly - fairy revives don't really spawn an ancilla normally but are treated like ancillae otherwise, possibly other edge cases.
 
-[1] For programmer types: if you're used to modern languages, you might be tempted to think of this as an array of `Ancilla` structs, but it's actually several different arrays, one per property. This is important later when we write out of bounds.
+[1] For programmer types: if you're used to modern languages, you might be tempted to think of this as an array of `Ancilla` structs, but it's actually several different arrays, one per property. This is important later when we write out of bounds, although I'm not going into that level of detail here really.
 

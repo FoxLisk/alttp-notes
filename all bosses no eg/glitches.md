@@ -11,25 +11,6 @@ NOTE: If you do something wrong with a bomb, make sure you let it fully finish e
  1. maybe menu to mirror during the fall since your menu is solid black at this point
 
 
-## Statue Drag
-
-[This has its own page now](/glitches/transition_corruption/statue_drag.md)
-
-## Overworld Conveyor
- 
- (starts ~1:20:40 in Chex's tutorial)
-
- 1. Get yourself lined up against the first / slope in the ether tablet island
- 1. Lamp 3 times facing up (or left or down, but NOT RIGHT)
- 1. Hold sword out
- 1. Shoot 3 arrows
- 1. Quickly menu to bombs
- 1. Do a "Bomb Dust" (kick up dust and lay 2 bombs)
-   * Basically this is tap A and then mash Y. you want to place both bombs while the dust is still on the screen, but you have to let go of A before you can place bombs
-   * this feels quite finicky so far
- 1. pick up a bomb, throw it, pick up another bomb
- 1. after the bomb hits you is when you can release sword
-
 ## North Somaria
  (starts ~1:48:00)
 
@@ -139,18 +120,7 @@ This is like a combination of North and East somarias. You do a setup more like 
 
 ## Slot 9 Block
 
- 1. Place a block.
-  * It needs to be fairly far away from collision in cardinal directions so the beams can stay in the air long enough for us to do the other steps
- 1. Slash and hold your sword
- 1. Break the block
- 1. Kick up dust
- 1. Place another block
-
-These have to be done fairly quickly. The 2nd block has to be placed while the beams from the first block & the dash dust are all on screen.
-
-Occasionally you'll get a slot 8 block because of, effectively, bad luck.
-
-If your sword spin charges fully in the middle of the process you're almost guaranteed to get a slot 8 block. If this is happening to you, try holding B until charged before doing the break/dust/block sequence.
+See [the ancillae codex](/glitches/ancillae/ancillae_tutorial.md#misslotting).
 
 ## Mire Hookpush
 

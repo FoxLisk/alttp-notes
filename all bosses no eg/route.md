@@ -13,8 +13,8 @@ Make sure to get rupees at Saha if you are going to do the Ice Rod hookpush.
 # PoD:
 
   * Go directly to the bridge and [deathhole](glitches.md#deathhole) to get to the big key. grab bombs/arrows
-  * Go hammeryump.
-  * [Statue Drag](glitches.md#statue-drag)
+  * Go hammeryump
+  * [Statue Drag](/glitches/transition_corruption/statue_drag.md)
   * Kill Helma
 
 # Escape:
@@ -31,7 +31,8 @@ Make sure to get rupees at Saha if you are going to do the Ice Rod hookpush.
   * Walk far enough into the room that you're definitely not in door state
   * Leave again, activate spinspeed high on the stairs (like, 4 steps below you high)
   * if you fuck up spinspeed, just walk to the bridge and dash left
-  * Now do [overworld conveyor](glitches.md#overworld-conveyor)
+  * Get yourself lined up against the first / slope in the ether tablet island
+  * Now get yourself an upwards [overworld conveyor](/glitches/ow_conveyor/overworld_conveyor.md).
   * In the ow conveyor state, hold up to walk along the slope. this will put you on X-6FF
     * From here, hold your sword out and do 1-frames to the left. If you pop way to the left, back off and start trying again. if you nudge 1 frame right, let yourself get conveyed into lost woods. Hold sword charge here! There are tiles somewhere on the next screen that fuck up your $EF value and put you in EG in mire.
     * Make sure your 1-frames nudge you over a pixel; you have to be on X-700 for the fall into the pit to work!

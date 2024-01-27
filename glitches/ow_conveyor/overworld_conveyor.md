@@ -85,6 +85,16 @@ This is a very tight window. Some people like to do an itemdash for the first bo
 
 This is a lot more lenient than the upward setup.
 
+## Bombs
+
+You can set this up with only 2 bombs and some deep water.
+
+1. Place a bomb on land
+1. Place a bomb in deep water
+1. Place a bomb on land (this will go in slot 9 due to the splash in slot 0)
+
+This is a good way to get downward conveyor but I'm struggling to get any upward conveyors with it RTA.
+
 ---
 
 ## notes

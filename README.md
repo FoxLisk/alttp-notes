@@ -12,7 +12,7 @@ There is a vast amount of information out there, including in my own head, that 
 
 # The Process
 
-Right now, the process is that I will write a page whenever I feel like doing so, up to whatever quality standard I feel inspired to reach that day. Additionally, I am tentatively offering to let [Twitch followers](https://twitch.tv/foxlisk) pick one room each. I will find some other mechanism for keeping it going (unless I decide to abandon it, I guess).
+Right now, the process is that I will write a page whenever I feel like doing so, up to whatever quality standard I feel inspired to reach that day. If you have anything you want me to write up, please ask me and I will probably do it.
 
 At some point I would like to organize the info better. Maybe I'll reach a point where I have a build process that fixes up links and images and shit. Maybe it'll just be a mess of markdown forever. No promises.
 

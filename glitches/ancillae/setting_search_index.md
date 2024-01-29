@@ -98,6 +98,17 @@ This sets the search index to 7, then counts down to 0 repeatedly, and ends on 7
 
 In particular, the timer that is being used to govern the 8-frame loop described above is affecting the search index directly with slot 4 debris. This loop normally occurs 4 times, but specifically it occurs until `$7E03C6` is set to `$04`; I don't know exactly what else affects that value at present.
 
+### Slot 5 Bombable Wall Debris
+
+This sets your search index to a value based on the direction the *door* is facing.
+
+| Facing | Value |
+| ------ | ----- |
+| North  | `0x20`|
+| South  | `0xD0`|
+| Left   | `0x78`|
+| Right  | `0x78`|
+
 ## Fairy Revival
 
 Any fairy revival, including from a deathhole, sets the search index to 6.

@@ -13,7 +13,7 @@ Firstly: the memory location `$3F3` indicates whether Link is currently under th
 * if it's `0x02`, Link is on a south conveyor
 
 
-Secondly, When you are holding an ancilla and take damage, that ancilla becomes responsible for the following process:
+Secondly, When you are holding an ancilla and drop it - such as by taking damage or splashing in deep water - that ancilla becomes responsible for the following process:
 
 1. set a value in memory to `0x01`
 2. 15 frames later, set that value to `0x02`
@@ -21,7 +21,7 @@ Secondly, When you are holding an ancilla and take damage, that ancilla becomes 
 
 The address that it writes to is based on its slot; in particular, if it's in slot 9 it writes to the magic conveyor address.
 
-This is all well and good, but we have to do something to interrupt the part where the value gets set back to `0x00` if we want to do anything useful. As it turns out, an exploding bomb abdicates its duty and stops updating this memory address! Thus, if we pick up a slot 9 bomb and then carefully time getting hit, we can get the conveyor state permanently.
+This is all well and good, but we have to do something to interrupt the part where the value gets set back to `0x00` if we want to do anything useful. As it turns out, an exploding bomb abdicates its duty and stops updating this memory address! Thus, if we pick up a slot 9 bomb and then carefully time dropping it, we can get the conveyor state permanently.
 
 The easy way to do this is, basically
 

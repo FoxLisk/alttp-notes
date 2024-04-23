@@ -20,7 +20,9 @@ Things I intend to get to, but have not yet started. Subject to change and repor
 
 Things that I think are interesting ideas but I'm not sure will rise to the level of me actually doing them. Ideas are annotated with a number `[x/10]` that indicates my current feeling about how likely I am to get around to them.
 
-- [ ] AD Route Megadoc `[7/10]` - a document that explains ~everything about All Dungeons routes. The idea is to cover old route and all of the tech/options available in new route.
+- [ ] Room grind randomizer `[7/10]` - allow people to compete on times for randomized rooms & equipment loadouts. Imagine something like "complete mire-2 starting with Cane of Somaria equipped and no boots"
+   - this could be expanded into randomized segments - instead of 1 room, it could be something like "starting in Mire Shed, get to Ice Palace, collecting the Shovel along the way"
+- [ ] AD Route Megadoc `[6/10]` - a document that explains ~everything about All Dungeons routes. The idea is to cover old route and all of the tech/options available in new route.
 - [ ] Scorigami `[5/10]` - a service to let people upload LiveSplit files and provide info on [scorigami](https://en.wikipedia.org/wiki/Scorigami)s.
 - [ ] New Game+ romhack `[5/10]` - a romhack to start you with full equipment in Link's house (this is required because Zelda doesn't spawn if you already have MS+).
 - [ ] Save Generator `[4/10]` - I already [have some save generators](https://foxlisk.com/dwnmg.html), but I think it would be nice to have a more general one.

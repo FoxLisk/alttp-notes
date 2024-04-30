@@ -14,7 +14,6 @@ Things I am already working on and intend to finish.
 Things I intend to get to, but have not yet started. Subject to change and reporioritization.
 
 - [ ] Live room timings - a feature for Fox Construct to track and display room times during live speedruns, similar to the FunToon feature.
-- [ ] Stream Guide - an update to EvilAsh's ancient, outdated guide on setting up your stream
 
 # Considering
 
@@ -27,3 +26,8 @@ Things that I think are interesting ideas but I'm not sure will rise to the leve
 - [ ] New Game+ romhack `[5/10]` - a romhack to start you with full equipment in Link's house (this is required because Zelda doesn't spawn if you already have MS+).
 - [ ] Save Generator `[4/10]` - I already [have some save generators](https://foxlisk.com/dwnmg.html), but I think it would be nice to have a more general one.
 - [ ] Hosted Route Comparison Timer `[4/10]` - I [have a tool for comparing routes by adding rooms together](/tools/compare_times.py), but currently it's annoying and manual to use; you have to write `yaml` and run a python script. It would be cool to make this publically easily available.
+
+
+# Canceled
+
+- Stream Guide (was `Planned`). I offered to update this very old guide but upon further consideration I don't think anyone actually needs this guide to exist. Streaming is a lot easier and better documented now, the ALttP community doesn't need its own little guide on how to stream.

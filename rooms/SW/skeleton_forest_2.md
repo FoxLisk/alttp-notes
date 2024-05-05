@@ -22,4 +22,4 @@ If you stayed low on the dash, the Ropa will be jumping at you from where he lan
 
 # Conclusion
 
-So! What do we do about this? Personally, I try to keep the Ropa spawned and take a high dash. The high dash seems to be pretty unsafe if you respawn the Ropa, but pretty safe if you don't. Many players instead opt to take a low dash. I think this is mostly preference. The top dash has a fairy bush, which means you won't advance the bush prize pack as much, so if you are worried about the skull bush I think it's better. But it's not a big deal.
+So! What do we do about this? Personally, I try to keep the Ropa spawned and take a high dash through the bushes. The high dash seems to be pretty unsafe if you respawn the Ropa, but pretty safe if you don't. Many players instead opt to take a low dash. I think this is mostly preference. The top dash goes through a fairy bush, which means you won't advance the bush prize pack as much, so if you are worried about the skull bush I think it's better. But it's not a big deal.

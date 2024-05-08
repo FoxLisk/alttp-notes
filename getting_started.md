@@ -1,8 +1,8 @@
-# Getting Started
+# Getting started
 
 **Welcome to the A Link to the Past speedrunning community!** Here are some suggestions for how to get started, based on what most people are interested in and find valuable.
 
-## Which Category Do I Start With?
+## Which category do I start with?
 
 You can start with any category if you already have an idea of what interests you! The most common starting points are:
 
@@ -16,12 +16,12 @@ You can start with any category if you already have an idea of what interests yo
  * [Beginner route tutorial](https://www.youtube.com/watch?v=5gF5V8_SEkk)
  * [Wiki page covering the 2 fastest routes](https://alttp-wiki.net/index.php/Any%)
 
-## Which Version Should I Play On?
+## Which version and platform should I play on?
 
-Whichever version you have! All official Nintendo releases of the game are valid, as are modern emulators such as [snes9x](https://github.com/snes9xgit/snes9x/releases). The Japanese 1.0 version is fastest, but anything is fine when you're starting.
+All official Nintendo releases of this game are allowed. We also allow use of some modern emulators (such as [snes9x](https://github.com/snes9xgit/snes9x/releases)). The Japanese 1.0 version on SNES/Emulator is the fastest option, but anything is fine when starting out.
 
-## Going Deeper
+## Going deeper
 
-Take a look at <#412669514782605312> for links to a wide variety of further resources, and feel free to ask us questions.
+Check out <#412669514782605312> for links to a wide variety of further resources and feel free to ask any questions in <#138378732376162304> or <#195826874847330304>.
 
 Happy gaming!

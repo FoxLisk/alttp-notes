@@ -22,6 +22,6 @@ All official Nintendo releases of this game are allowed. We also allow use of so
 
 ## Going deeper
 
-Take a look at <#412669514782605312> for links to a wide variety of further resources, and feel free to ask us questions.
+Check out <#412669514782605312> for links to a wide variety of further resources and feel free to ask any questions in <#138378732376162304> or <#195826874847330304>.
 
 Happy gaming!

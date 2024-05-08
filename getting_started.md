@@ -16,9 +16,9 @@ You can start with any category if you already have an idea of what interests yo
  * [Beginner route tutorial](https://www.youtube.com/watch?v=5gF5V8_SEkk)
  * [Wiki page covering the 2 fastest routes](https://alttp-wiki.net/index.php/Any%)
 
-## Which version should I play on?
+## Which version and platform should I play on?
 
-Whichever version you have! All official Nintendo releases of the game are valid, as are modern emulators such as [snes9x](https://github.com/snes9xgit/snes9x/releases). The Japanese 1.0 version is fastest, but anything is fine when you're starting.
+All official Nintendo releases of this game are allowed. We also allow use of some modern emulators (such as [snes9x](https://github.com/snes9xgit/snes9x/releases)). The Japanese 1.0 version on SNES/Emulator is the fastest option, but anything is fine when starting out.
 
 ## Going deeper
 

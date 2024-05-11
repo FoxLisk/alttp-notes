@@ -14,10 +14,10 @@ TODO: do we really need a channel index?
 ### Speedrun Resources
 
 - [Main Leaderboards](https://www.speedrun.com/alttp) - [Category Extensions](https://www.speedrun.com/alttpce)
-- [ALttP Speedrunning Wiki](https://www.alttp-wiki.net)
-- [ALttP Practice Hack by kan](https://spannerisms.github.io/lttphack)
-- [ALttP Strategy Hub](https://strats.alttp.run)
-- [ALttP Gold Segments By Runners](https://tinyurl.com/r7ywcs3)
+- [Speedrunning Wiki](https://www.alttp-wiki.net)
+- [Practice Hack by kan](https://spannerisms.github.io/lttphack)
+- [Strategy Hub](https://strats.alttp.run)
+- [Gold Segments By Runners](https://tinyurl.com/r7ywcs3)
 - [PB Reviews](https://docs.google.com/spreadsheets/d/1CLdAkeBnu_u1oPoGpiIECEAOSvYdBO3o6QHLBfG4Pr0/edit#gid=1243559785)
 - [HelpasaurKing Bot Commands](https://helpasaur.com/commands)
 

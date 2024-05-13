@@ -7,10 +7,10 @@ Technically, this rquires changing Link's state while the hookshot is extending 
 1. Fill slots 0-4 (2 bombs and 3 arrows is an easy way to do this, but there are plenty of others)
 1. Put a replaceable ancilla in slots 5-9. An easy way to do this is have your sword held out (hookshots like eating sparkles)
 1. Make sure your search index is >= 5
-   [Search index info from Glan](../search_index.md)
+   [Search index info from Glan](/glitches/ancillae/setting_search_index.md)
 1. Use the hook in range of a hookable
    * This hook will go in slots 5-9, eating the above ancilla. This is probably search-index dependent in a way I don't yet grok
-1. _Before that hook connects_, use the hook again, but in a way that gets it to spawn in slots 0-4. An easy way to do this is to release your sword (allowing the hook to eat an ancilla in a lower slot).
+1. _Before that hook connects_, use the hook again, but in a way that gets it to spawn in slots 0-4. An easy way to do this is to have an arrow in a 0-4 slot and release your sword after the first hook, which will allow the second hook to replace the arrow.
 
 If this works, there will be a hookshot sprite on screen extending from where you were towards whatever you were hooking. It's pretty obvious.
 

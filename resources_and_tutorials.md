@@ -1,8 +1,6 @@
 # Resources and Tutorials
 
 
-TODO: do we really need a channel index?
-
 ## Primary Channels
 
 - <#414529778385944576> - Updates on community events, leaderboard rulings, and other important info

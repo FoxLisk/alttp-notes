@@ -42,7 +42,7 @@ The Cane of Byrna generates something that you might think of as a sparkle, but 
 Arrows have [their own routine](https://github.com/spannerisms/jpdasm/blob/master/bank_09.asm#L6161) for all of this. Here's their algorithm:
 
 1. If there's an arrow in flight, don't try to spawn
-1. Check how many arrow-in-wall ancillae are present
+1. Check how many arrow-in-wall ancillae are present in front slots
 1. If that number is not exactly 3:
     1. If there's an empty front slot, spawn there, prioritizing highest slots first
     1. Otherwise give up
@@ -82,8 +82,8 @@ If an ancilla cannot find an _empty_ slot to spawn in, it starts looking for a s
 
 The **replaceable ancillae** are:
 
-    * Arrow-in-wall (these are a different ancilla than arrow-in-flight)
-    * Sparkles from ice rod, red boom, silver arrows, and sword charges, **except** sword-fully-charged (`$0D`)
+* Arrow-in-wall (these are a different ancilla than arrow-in-flight)
+* Sparkles from ice rod, red boom, silver arrows, and sword charges, **except** sword-fully-charged (`$0D`)
 
 Here's the gist of how ancilla replacement works:
 
@@ -102,7 +102,7 @@ This process will not fill any empty slots that it encounters! It requires the p
 
 # Manipulating the Search Index
 
-You'll note that the first check done when trying to fill a slot for an ancilla that wants to spawn is to check if the search index is zero. This means that if we can set it to a nonzero number, we can control what slot ancillae spawn in, or restrict their search space to prevent them from spawning.
+You'll note that the first check done when trying to fill a slot for an ancilla that wants to spawn is to check if the search index is zero. This means that if we can set it to a nonzero number, we can control what slot ancillae spawn in during replacement (or restrict their search space to prevent them from spawning).
 
 There are two main ways to manipulate the search index: setting it outright, and causing ancilla replacements on purpose to adjust it.
 

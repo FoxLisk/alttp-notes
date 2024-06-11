@@ -16,6 +16,8 @@ There are 10 "slots" in memory into which ancillae can spawn[1]. These are gener
 
 I made a [tutorial](ancilla_tutorial.md) for a hopefully fairly gentle introduction to ancilla manipulation.
 
+I also [went through this tutorial live on stream](https://www.twitch.tv/videos/2045649187) if you prefer video content.
+
 # How do ancillae spawn?
 
 See [the ancilla spawning codex](ancilla_spawning.md) for the gory details. Be warned that this is a pretty dry and technical document, but it's good for learning any details you may need.

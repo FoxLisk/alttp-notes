@@ -2,6 +2,8 @@
 
 This is an attempt to take you through ancilla manipulation in a somewhat breezy way, with worked examples and applications.
 
+This tutorial is also [available in video form](https://www.twitch.tv/videos/2045649187) (unedited livestream vod).
+
 # Slots
 
 Ancilla spawn into ten "slots", which we number 0-9. The first 5 slots (0-4) are called "front slots," and the rest are called "back slots."

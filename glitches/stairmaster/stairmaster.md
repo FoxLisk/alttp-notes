@@ -22,6 +22,8 @@ There are three known applications. There are also mp4s [in this directory](.) i
 
 The good pixels for the "YBA" are Y-E21 and Y-E20.
 
+You can bomb yourself onto the last pixel easily.
+
 ![](stairmaster_spectacle_rock.gif)
 
 ## Turtle Rock -> Moldorm 2

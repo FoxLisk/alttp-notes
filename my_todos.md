@@ -14,6 +14,7 @@ Things I am already working on and intend to finish.
 Things I intend to get to, but have not yet started. Subject to change and reporioritization.
 
 - [ ] Live room timings - a feature for Fox Construct to track and display room times during live speedruns, similar to the FunToon feature.
+- [ ] Look into GitHub pages for this repo. A lot of people are weirdly offput by the github UI, so making it more presentable might be worthwhile.
 
 # Considering
 

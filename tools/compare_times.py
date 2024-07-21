@@ -1,5 +1,5 @@
 from pathlib import Path
-from ruamel.yaml import YAML
+import yaml
 
 def parse_time(time):
     seconds, frames = time.split("'")
@@ -18,8 +18,9 @@ def sum_route(screens):
 
     return seconds, frames
 
-def run_comparison(parser, comparison_fp):
-    comparison = parser.load(f)
+def run_comparison(comparison_path):
+    with open(comparison_path) as fp:
+        comparison = yaml.safe_load(fp)
     print(f"{comparison['title']}")
     times = []
     for route, screens in comparison['routes'].items():
@@ -31,10 +32,12 @@ def run_comparison(parser, comparison_fp):
 def _looks_like_yaml(filename):
     return not filename.startswith('.') and filename.endswith('.yaml')
 
-if __name__ == '__main__':
+def main():
     dot = Path('.')
-    yaml = YAML(typ="safe")
     for f in dot.iterdir():
         if _looks_like_yaml(f.name):
-            run_comparison(yaml, f)
+            run_comparison(f)
             print("")
+
+if __name__ == '__main__':
+    main()

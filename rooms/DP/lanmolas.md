@@ -62,8 +62,20 @@ There's a very high mechanical bar to being good at Lanmo. I don't want to focus
         * If your target is getting away from you, switch immediately
     * In general, you can always get 1, and often 2, shots in on a spawning worm. Don't assume you can get more.
 
+* Iframes
+    * When you hit a Lanmo, you have a huge window to walk through it. This can be pretty useful.
+    * This comes up a lot in the 1st cycle, but you can use it later too
+    * If it's coming straight towards you, just walk through it and turn around
+    * Sometimes you can do cool shit like walk through it and face down
+
+* Hope shots
+    * Only fire a hope shot as a "free action," i.e. when you can't do anything useful
+    * Often a Lanmo is moving in a way where you can cover one of its movements with a shot. Go ahead and take it.
+    * One example of this is when it's moving at a sharp downward angle, you can fire kinda high and hope it wiggles back up at the right time
+        * [Example clip](https://www.twitch.tv/foxlisk/clip/FragileCuriousSalamanderANELE-SlyVYySqwWXtPBmc)
+
 * Slashing
-    * Slashing should only be taken as a "free action," i.e. when you can't do anything useful
+    * Like hope shots, slashing should only be taken as a "free action," i.e. when you can't do anything useful
     * You should prefer an arrow shot that's 50% to hit over a slash that's 100%
     * You should usually prefer setting up for the next cycle over getting a slash in
     * Obviously, if you're counting and you already got one slash in, the second slash goes up in value a lot

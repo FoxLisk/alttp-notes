@@ -22,6 +22,7 @@
 ### Other Useful Links
 
 - [RaceTime.gg](https://racetime.gg) - hosts our weekly, ad-hoc, and tournament races
+- [How to set up autosplitting](https://discord.com/channels/138378732376162304/138378732376162304/1007007393151975425)
 
 ### Other Discord Links
 
@@ -69,6 +70,8 @@ If you are looking for a guide on a specific strategy in a run, please check the
 
 - 📝 [Various Guides](http://tinyurl.com/malmoguides) - By malmo
 - 📺 [Various glitches](https://youtu.be/mf5mvuJaQaY?si=Wkjhd7WaeaW86rpw) - By superSKUJ
+
+--- (separate post) ---
 
 ## Major Glitches
 

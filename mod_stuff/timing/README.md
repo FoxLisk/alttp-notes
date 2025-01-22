@@ -37,7 +37,7 @@ Some things to notice here:
 
 ![last_frame_triforce](triforce_transition_triptych.png)
 
-This image is edited with the left half being the normal colours and the right have being from the final, darkened frame:
+This image is edited with the left half being the normal colours and the right half being from the final, darkened frame:
 
 ![triforce_darkening](triforce_darkening_split.png)
 

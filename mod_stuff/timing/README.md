@@ -14,9 +14,6 @@ Runs with other timing endpoints may be added to this document later.
 
 These frames are all taken (with permission) from the YouTube upload of [Chexhuman's 1:24:53](https://www.youtube.com/watch?v=chIS1QJ9vaI).
 
-You'll notice that I used three different methods of analyzing the same YouTube video and the three did not produce exactly the same result. This is confusing and frustrating! In general the discrepancy is less than 1 frame. Have a friend check your work if this matters in any specific case.
-
-
 ## First Frame
 
 The following three images are the frame immediately before the frame on which timing starts, the frame on which timing starts, and the frame after which timing starts.
@@ -45,6 +42,9 @@ Some things to notice here:
 I am once again working with [Chexhuman's 1:24:53](https://www.youtube.com/watch?v=chIS1QJ9vaI). I will explain a few ways to go about determining the duration of this video.
 
 **NOTE:** In this example, the run turns out to be solidly in the middle of a second. If a run is extremely close to a second barrier (it has milliseconds around .00 or .99), you might want to get a second opinion or use multiple timing methods.
+
+You'll notice that I used three different methods of analyzing the same YouTube video and the three did not produce exactly the same result. This is confusing and frustrating! In general the discrepancy is less than 1 frame. Have a friend check your work if this matters in any specific case.
+
 
 ## VidTimer
 

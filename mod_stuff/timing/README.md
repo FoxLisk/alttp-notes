@@ -37,6 +37,10 @@ Some things to notice here:
 
 ![last_frame_triforce](triforce_transition_triptych.png)
 
+This image is edited with the left half being the normal colours and the right have being from the final, darkened frame:
+
+![triforce_darkening](triforce_darkening_split.png)
+
 # Timing Process
 
 I am once again working with [Chexhuman's 1:24:53](https://www.youtube.com/watch?v=chIS1QJ9vaI). I will explain a few ways to go about determining the duration of this video.

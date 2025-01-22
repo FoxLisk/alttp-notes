@@ -52,7 +52,7 @@ You'll notice that I used three different methods of analyzing the same YouTube 
 
 ## VidTimer
 
-This is a browser-based tool for determing the duration of a portion of an online video, which is super useful for us. Thanks to RequiemOfSpirit for teaching me about this.
+[VidTimer](vidtimer.com) is a browser-based tool for determing the duration of a portion of an online video, which is super useful for us. Thanks to RequiemOfSpirit for teaching me about this.
 
 First enter the URL of the video in the field for it and click `Load Video`.
 
@@ -84,9 +84,11 @@ Some subtraction yields the following:
 
 This is the number of seconds that the run is. Since we only time runs to the nearest second in ALttP, we can generally ignore any milliseconds portion (although if it's extremely close to a second barrier, you should exercise extra care).
 
+You can use a tool like [this one](https://www.browserling.com/tools/seconds-to-hms) to convert the number of seconds into a more readable hours, minutes, and seconds format.
+
 ## Local Analysis
 
-If you'd like to investigate the video locally, you have a variety of tools available. We are at time of writing recommending a tool such as [Stacher7](https://stacher.io/) for downloading.
+If you'd like to investigate the video locally, you have a variety of tools available. We are currently recommending [Stacher7](https://stacher.io/) for downloading. Make sure you select to download the highest quality video available.
 
 For analyzing the vod, I use [Avidemux](https://avidemux.sourceforge.net/download.html), but you could use other tools for the purpose. In Avidemux, first identify the start frame by using a combination of scrubbing and frame stepping (left and right arrow keys) and press the `[A` button in the UI:
 

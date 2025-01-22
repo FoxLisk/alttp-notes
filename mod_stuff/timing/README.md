@@ -16,6 +16,7 @@ These frames are all taken (with permission) from the YouTube upload of [Chexhum
 
 You'll notice that I used three different methods of analyzing the same YouTube video and the three did not produce exactly the same result. This is confusing and frustrating! In general the discrepancy is less than 1 frame. Have a friend check your work if this matters in any specific case.
 
+
 ## First Frame
 
 The following three images are the frame immediately before the frame on which timing starts, the frame on which timing starts, and the frame after which timing starts.

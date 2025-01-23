@@ -41,3 +41,6 @@ This image is edited with the left half being the normal colours and the right h
 
 ![triforce_darkening](triforce_darkening_split.png)
 
+# How To Time A Run
+
+See the full [timing process page](timing_process.md) for info on how runs are timed in practice.

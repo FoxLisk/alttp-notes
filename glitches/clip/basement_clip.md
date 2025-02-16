@@ -62,14 +62,17 @@ To start, hold left to move into the rail, and tap A to clear spinspeed while ho
 1. 1st pixel down
    1. Place a block, and swap to `<v` during the cane animation and keep holding `<v`.
    1. After Link finishes pushing the block, explode the block and release the dpad during the cane animation. Link should be facing downwards at this point.
-   1. `v>` for 1 or 2 frames
+   1. 1-2f `v>`
    1. Press and hold `<`
 1. 2nd pixel down
    1. Same as 1st pixel
 1. 3rd pixel down
-   1. Place a block
+   1. While still holding left, place a block
    1. Roll from `<` to `<v`
-   1. Next you need a clean release of the dpad, a 1f `>` input, and then a 1-2f `v>` input
+   1. Cleanly release the dpad
+   1. Move 1f `>`
+   1. Dashturn down
+   1. 1-2f `v>`
 1. 4th pixel down
    1. Hold left. Don't place a new somaria block, but repeat the remaining steps above
 1. Clipping inside

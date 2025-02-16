@@ -60,10 +60,10 @@ Thanks to RequiemOfSpirit for finding this much easier method and writing it up.
 To start, hold left to move into the rail, and tap A to clear spinspeed while holding left. Then menu to Somaria. Then, for the 4 pixels down:
 
 1. 1st pixel down
-   a. Place a block, and swap to `<v` during the cane animation and keep holding `<v`.
-   a. After Link finishes pushing the block, explode the block and release the dpad during the cane animation. Link should be facing downwards at this point.
-   a. `v>` for 1 or 2 frames
-   a. Press and hold `<`
+   1. Place a block, and swap to `<v` during the cane animation and keep holding `<v`.
+   1. After Link finishes pushing the block, explode the block and release the dpad during the cane animation. Link should be facing downwards at this point.
+   1. `v>` for 1 or 2 frames
+   1. Press and hold `<`
 1. 2nd pixel down
    1. Same as 1st pixel
 1. 3rd pixel down

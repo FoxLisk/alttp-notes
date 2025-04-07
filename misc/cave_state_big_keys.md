@@ -120,18 +120,14 @@ DungeonMask:
 
 In cave state, we read way past the intended 16 elements.
 
-For regular cave state, we're looking at `DungeonMask,$FF`. This works out to be the value at `#_0099BF`. The relevant ROM looks like this:
+For regular cave state, we're looking at `DungeonMask,$FF`. This works out to be the value at `#_0099BF`. The relevant code looks like this:
 
 ```
 #_0099BE: dw $17C4
 #_0099C0: dw $07CA
 ```
 
-The [Asar manual](https://rpghacker.github.io/asar/asar_19/manual/) tells us that
-
-> [w]hen using dw, dl or dd, each number is converted to little-endian
-
-which means that the actual ROM data looks like this:
+Since the SNES uses a little-endian processor, this results in these bytes in ROM:
 
 ```
 #_0099BE: $C4
@@ -140,9 +136,9 @@ which means that the actual ROM data looks like this:
 #_0099C1: $07
 ```
 
-So the two bytes in ROM are `$17CA`. When this is loaded as a little-endian word, we get `$CA17`.
+So the two bytes in ROM are `$17 $CA`. When this is loaded as a little-endian word, we get `$CA17`.
 
-For xor cave (`$FD`), we get the values from `$99BD`, which are 
+For xor cave (`$FD`), we get the values from `#_0099BD`, which are 
 
 ```
 #_0099BC: dw $0FC4

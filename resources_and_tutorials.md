@@ -16,7 +16,6 @@
 - [Practice Hack by kan](https://spannerisms.github.io/lttphack)
 - [Strategy Hub](https://strats.alttp.run)
 - [Gold Segments By Runners](https://tinyurl.com/r7ywcs3)
-- [PB Reviews](https://docs.google.com/spreadsheets/d/1CLdAkeBnu_u1oPoGpiIECEAOSvYdBO3o6QHLBfG4Pr0/edit#gid=1243559785)
 - [HelpasaurKing Bot Commands](https://helpasaur.com/commands)
 
 ### Other Useful Links

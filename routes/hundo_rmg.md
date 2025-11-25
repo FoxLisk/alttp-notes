@@ -281,9 +281,3 @@ how many do i need starting a split
 
 1. fastest way to do opening of hera? chex menus to mirror but idk if thats good
 
-# some notes for later from chex 
-
- * Buy Blue Potion + Green Potion?
- * * If 215-339 Rupees, buy Green 
- * * If 345-429 Rupees, buy Green and Blue 
- * * If 430+ Rupees, buy Green and Blue and skip the well chests 
